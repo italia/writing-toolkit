@@ -2,14 +2,25 @@
 Guida al linguaggio della Pubblica Amministrazione
 ##################################################
 
-.. highlights::
-
-   Suggerimenti e strumenti per il linguaggio dei servizi digitali della Pubblica Amministrazione.
+.. rubric:: Suggerimenti e strumenti per il linguaggio dei servizi digitali della Pubblica Amministrazione.
 
 
 La guida al linguaggio della Pubblica Amministrazione è uno strumento per
 aiutarti a creare e gestire i contenuti di siti o altri servizi digitali
 pubblici. 
+
+La guida al linguaggio è parte del kit di `Designers Italia
+<https://designers.italia.it/>`_ dedicato alla progettazione, gestione e
+produzione di contenuti nei siti della Pubblica Amministrazione.
+
+`Vai al content kit <https://designers.italia.it/kit/content-kit/>`_
+
+I kit sono strumenti operativi per attuare le linee guida di design dei servizi
+digitali della Pubblica Amministrazione.
+
+`Vai alle linee guida sui contenuti <https://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html>`_
+
+|
 
 La guida è divisa in tre parti: 
 
