@@ -61,19 +61,6 @@ Usa i termini più appropriati per distinguere correttamente tra persone richied
 
 |
 
-Pulsanti di navigazione
------------------------
-
-Ogni pulsante dovrebbe basarsi sempre su combinazioni di forme, colori e testo. In ogni caso l’interfaccia non può mai basarsi solo su immagini o, peggio ancora, colori o audio. Nel testo dei pulsanti, assicurati che sia spiegata bene l’azione che l’utente compie con un clic:
-
-**Usa**
-   *Conferma i tuoi dati*
-
-**Non usare**
-   *Clicca qui*
-
-|
-
 Inclusività del linguaggio
 --------------------------
 
@@ -85,6 +72,19 @@ Quando crei contenuti (per es. immagini o testi) che riguardano le persone, evit
    *Il presidente di Acme, Mario Rossi...* (il presidente di una società non è sempre solo un uomo)
 
 Vedi anche `Identità culturale <#identità-culturale>`__.
+
+|
+
+Pulsanti di navigazione
+-----------------------
+
+Ogni pulsante dovrebbe basarsi sempre su combinazioni di forme, colori e testo. In ogni caso l’interfaccia non può mai basarsi solo su immagini o, peggio ancora, colori o audio. Nel testo dei pulsanti, assicurati che sia spiegata bene l’azione che l’utente compie con un clic:
+
+**Usa**
+   *Conferma i tuoi dati*
+
+**Non usare**
+   *Clicca qui*
 
 |
 

@@ -23,17 +23,6 @@ Usa uno stile semplice, breve e conciso, arriva subito al punto. Evita frasi e p
 
 |
 
-Parole straniere
-----------------
-
--  Preferisci quando possibile i termini in italiano.
-
--  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
-
--  Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci *tablets*”.
-
-|
-
 Nomi di servizi e progetti
 --------------------------
 
@@ -44,6 +33,17 @@ Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve crea
 
 **Non usare**
    *Linea amica*
+
+|
+
+Parole straniere
+----------------
+
+-  Preferisci quando possibile i termini in italiano.
+
+-  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
+
+-  Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci *tablets*”.
 
 |
 
