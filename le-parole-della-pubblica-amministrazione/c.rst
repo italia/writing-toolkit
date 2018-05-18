@@ -14,7 +14,7 @@ C
         |
    
    Cassa depositi e prestiti, Cdp
-        `Solo la prima lettera <http://www.comune.signa.fi.it/area-di-upload/guide/glossario.pdf>`__ è maiuscola, anche nell’acronimo.
+        Solo la prima lettera è maiuscola, anche nell’acronimo.
 
         |
    
