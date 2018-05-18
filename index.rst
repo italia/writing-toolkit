@@ -24,16 +24,18 @@ digitali della Pubblica Amministrazione.
 
 La guida è divisa in tre parti: 
 
-- un elenco di parole della Pubblica Amministrazione, che in forma di glossario
+- un elenco di `parole della Pubblica Amministrazione
+  <le-parole-della-pubblica-amministrazione.html>`_, che in forma di glossario
   spiega (senza pretese di esaustività) in che modo scrivere alcuni termini
   ricorrenti nei servizi pubblici;
 
-- dei suggerimenti di scrittura, dove puoi trovare indicazioni per scrivere,
-  strutturare, impaginare e gestire i tuoi contenuti, in modo da renderli
-  efficaci e di facile utilizzo per gli utenti;
+- dei `suggerimenti di scrittura <suggerimenti-di-scrittura.html>`_, dove puoi
+  trovare indicazioni per scrivere, strutturare, impaginare e gestire i tuoi
+  contenuti, in modo da renderli efficaci e di facile utilizzo per gli utenti;
 
-- una guida sul tono di voce da utilizzare sui siti internet della Pubblica
-  Amministrazione, a seconda delle attività e dei bisogni del cittadino. 
+- una `guida sul tono di voce <tono-di-voce.html>`_ da utilizzare sui siti
+  internet della Pubblica Amministrazione, a seconda delle attività e dei
+  bisogni del cittadino. 
 
 Questa guida è un progetto aperto alle modifiche e ai suggerimenti di tutti.
 Per partecipare alla sua evoluzione, puoi contribuire scrivendo sull’apposita
