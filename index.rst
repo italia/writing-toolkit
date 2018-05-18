@@ -38,9 +38,10 @@ La guida è divisa in tre parti:
   bisogni del cittadino. 
 
 Questa guida è un progetto aperto alle modifiche e ai suggerimenti di tutti.
-Per partecipare alla sua evoluzione, puoi contribuire scrivendo sull’apposita
-sezione di Forum Italia, oppure creare delle issue e delle pull request
-direttamente su `GitHub <https://github.com/italia/writing-toolkit>`_.
+Per partecipare alla sua evoluzione, puoi contribuire scrivendo sull’
+`apposita sezione di Forum Italia <https://forum.italia.it/t/content-kit/3350>`_, 
+oppure creare delle issue e delle pull request direttamente su `GitHub
+<https://github.com/italia/writing-toolkit>`_.
 
 |
 

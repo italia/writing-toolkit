@@ -21,7 +21,7 @@ scrittura, oppure usare la casella di ricerca.
 
 Queste regole sono aperte a modifiche e nuovi spunti:
 
-- Vai alla discussione sul Forum
+- Vai alla `discussione sul Forum <https://forum.italia.it/t/content-kit/3350>`_
 
 - Invia una proposta di modifica su `GitHub <https://github.com/italia/writing-toolkit>`_
 

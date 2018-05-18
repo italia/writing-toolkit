@@ -9,7 +9,7 @@ Usa la casella di ricerca per trovare risposte ai tuoi dubbi!
 
 Questo elenco è per definizione parziale, puoi aiutarci a completarlo. 
 
-- Vai al Forum
+- `Vai al Forum <https://forum.italia.it/t/content-kit/3350>`_
 
 - Invia una proposta di modifica su `GitHub <https://github.com/italia/writing-toolkit>`_
 
