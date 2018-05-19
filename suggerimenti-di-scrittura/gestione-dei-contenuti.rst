@@ -28,6 +28,6 @@ Revisiona i contenuti
 
 Fai periodicamente una revisione dei contenuti vecchi e nuovi dentro tutte le interfacce, sia *desktop* che *mobile*.
 
-Quando sono necessari interventi rilevanti sui testi, fai una seconda revisione usando degli strumenti di scrittura collaborativa come Google Docs (guarda un `esempio di revisione collaborativa <https://docs.google.com/document/d/133sBEG-m-9HS79Mp5yIrUMj1BzVnD-e-DM9nHRdHOeM/edit?usp=sharing>`_).
+Quando sono necessari interventi rilevanti sui testi, fai una seconda revisione usando degli strumenti di scrittura collaborativa come Google Docs (guarda un `esempio di revisione collaborativa <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`_).
 
 
