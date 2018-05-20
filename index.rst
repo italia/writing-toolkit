@@ -2,7 +2,9 @@
 Guida al linguaggio della Pubblica Amministrazione
 ##################################################
 
-.. rubric:: Suggerimenti e strumenti per il linguaggio dei servizi digitali della Pubblica Amministrazione.
+.. highlights:: 
+   
+   Suggerimenti e strumenti per il linguaggio dei servizi digitali della Pubblica Amministrazione.
 
 
 La guida al linguaggio della Pubblica Amministrazione è uno strumento per
