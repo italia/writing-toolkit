@@ -7,6 +7,11 @@ P
         L’iniziale è maiuscola quando ci si riferisce a una nazione in particolare, come sinonimo di Stato. In tutti gli altri casi è minuscola.
 
         |
+
+   `pagoPA <http://www.agid.gov.it/it/piattaforme/pagopa>`_
+        Il sistema di pagamenti online della Pubblica Amministrazione. La prima lettera è minuscola.
+
+        |
    
    Parlamento
         L’iniziale è sempre maiuscola.
