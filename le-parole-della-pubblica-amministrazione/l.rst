@@ -15,7 +15,7 @@ L
          Preferisci l'uso di termini più semplici (affitto)
          
          **Usa**
-            *...l'immobile viene affittato a paritre da..."
+            *...l'immobile viene affittato a partire da..."
             
          **Non usare**
-            *...l'immobile viene ceduto in locazione a paritre da..."
+            *...l'immobile viene ceduto in locazione a partire da..."
