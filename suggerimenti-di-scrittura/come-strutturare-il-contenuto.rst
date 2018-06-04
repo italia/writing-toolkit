@@ -139,7 +139,7 @@ Quando fai riferimento a una disposizione di legge:
 -  aggiungi sempre il link alla norma di riferimento, per esempio usando il permalink alla norma su `Normattiva <http://www.normattiva.it/>`_.
 
 **Usa**
-   *Testo Unico in materia di dati sulla privacy (D.Lgs. 169 del 30 giugno 2003), art. 4 lett. d).*
+   *Testo Unico in materia di dati sulla privacy (d.lgs. 169 del 30 giugno 2003), art. 4 lett. d).*
 
    *I dati sensibili sono “i dati personali idonei a rivelare l’origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l’adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale”.*
 
