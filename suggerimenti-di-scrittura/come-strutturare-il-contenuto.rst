@@ -14,7 +14,7 @@ Usa un elenco puntato per rendere più leggibile il testo. Verifica che i punti 
 
 Usa un elenco numerato quando devi guidare le persone in un processo. In questo caso non serve avere una frase introduttiva.
 
-1. Assicurati di mettere il punto fermo all’inizio di ogni frase.
+1. Assicurati di mettere il punto fermo alla fine di ogni frase.
 
 2. Scrivi frasi brevi, semplici e chiare per far capire l’azione da compiere.
 
