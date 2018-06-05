@@ -44,6 +44,17 @@ C
 
         |
    
+    conseguimento
+        Evita l’uso di questo termine, in particolare nella forma di `nominalizzazione <http://www.treccani.it/enciclopedia/nominalizzazione_%28La-grammatica-italiana%29/>` (ovvero come trasformazione in sostantivo di un verbo).
+   
+       **Usa**
+           *...per raggiungere gli obiettivi...*
+   
+        **Non usare**
+           *...per il conseguimento degli obiettivi...*
+
+        |
+        
    Consiglio dei ministri, Cdm
         Solo la prima iniziale è maiuscola, anche nell’acronimo.
 
