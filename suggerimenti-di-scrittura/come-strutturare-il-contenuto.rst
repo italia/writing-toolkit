@@ -39,6 +39,8 @@ Si scrive senza trattini o spazi, in minuscolo. Inserisci gli indirizzi email co
 
 |
 
+.. _faq:
+
 Faq
 ---
 
