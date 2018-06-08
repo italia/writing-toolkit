@@ -23,6 +23,8 @@ G
 
            *(...) i giudici della Corte costituzionale sono nominati (...)*
 
+        Al femminile è invariato (*la giudice*).
+
         |
    
    Governo
