@@ -11,6 +11,8 @@ S
 
            *Il Sindaco Giuseppe Rossi era presente all’inaugurazione.*
 
+        Si declina al femminile (*la sindaca*).
+
         |
    
    Sistema Pubblico di Identità Digitale, SPID
@@ -24,7 +26,7 @@ S
         |
    
    speaker 
-        Preferisci il termine in italiano: “relatore”.
+        Preferisci il termine in italiano: “relatore/relatrice”.
 
         |
    
