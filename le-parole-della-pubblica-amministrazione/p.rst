@@ -38,10 +38,14 @@ P
    Presidente del Consiglio dei ministri
         Le iniziali di “Presidente” e “Consiglio” sono maiuscole.
 
+        Al femminile resta invariato (*la Presidente*).
+
         |
    
    Presidente della Repubblica
         Le iniziali di “Presidente” e “Repubblica” sono maiuscole.
+
+        Al femminile resta invariato (*la Presidente*).
       
         |
 
@@ -62,4 +66,5 @@ P
    
    pubblico ministero, PM
         Nella versione estesa, entrambe le iniziali sono minuscole. L’acronimo è maiuscolo.
-
+        
+        Al femminile resta invariato (*la pubblico ministero*).
