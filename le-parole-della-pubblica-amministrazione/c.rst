@@ -22,7 +22,12 @@ C
         Usare termini in inglese non renderà i cittadini più soddisfatti. Preferisci il termine italiano, magari spiegando in che modo viene valutata la “soddisfazione dei cittadini”.
 
         |
-   
+
+   Codice dell’amministrazione digitale, Cad
+        Scrivilo per esteso. Solo la prima iniziale è maiuscola.
+
+        |
+
    Commissione europea
         Solo la prima iniziale è maiuscola.
 
