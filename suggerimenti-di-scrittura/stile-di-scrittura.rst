@@ -24,7 +24,22 @@ Usa sempre degli esempi concreti per spiegare meglio le informazioni che stai da
 Linguaggio breve e semplice
 ---------------------------
 
-Usa uno stile semplice, breve e conciso, arriva subito al punto. Evita frasi e paragrafi troppo lunghi. Considera che il tuo testo sarà letto la maggior parte delle volte sul piccolo schermo di un telefono.
+Usa uno stile semplice, breve e conciso. Evita frasi e paragrafi troppo lunghi. Considera che il tuo testo sarà letto la maggior parte delle volte sul piccolo schermo di un telefono.
+
+Il linguaggio deve includere, non escludere. Meglio usare termini comprensibili a tutti. Evita perifrasi e parole arcaiche (es. “ad uopo”, “nelle more di”).
+Usa strumenti come `Google Trends <https://trends.google.com>`_ per confrontare l’uso di diverse parole e scegliere quelle più utilizzate dalle persone.
+
+In generale evita l’uso di parole che finiscono in “-zione” o “-mento”: sono parole derivate da verbi che rendono più difficile il testo. Usa piuttosto i verbi in forma attiva.
+
+**Usa**
+   *Completa il modulo e paga*
+
+   *Per semplificare devi: ...*
+
+**Non usare**
+   *Prima di pagare procedi al completamento del modulo*
+
+   *Le procedure di semplificazione prevedono che: ...*
 
 |
 
