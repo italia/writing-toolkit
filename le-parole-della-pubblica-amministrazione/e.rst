@@ -33,4 +33,12 @@ E
         **Non usare**
            *Il servizio viene erogato dal lunedì al venerdì, dalle 10 alle 18.*
    
-      
+        |
+
+   Euro, euri, EUR, €
+        Nei contenuti testuali, usa la forma estesa (es. “250 euro”).
+
+        Nelle tabelle, usa il simbolo “€” dopo la cifra, separato da uno spazio (es. “250 €”).
+
+        Il plurale di “euro” non è scorretto, anche se il singolare è preferibile.
+

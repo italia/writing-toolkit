@@ -10,17 +10,6 @@ I giorni della settimana e i mesi si scrivono con la lettera minuscola (es. lune
 
 |
 
-Euro, euri, EUR, €
-------------------
-
-Nei contenuti testuali, usa la forma estesa (es. “250 euro”).
-
-Nelle tabelle, usa il simbolo “€” dopo la cifra, separato da uno spazio (es. “250 €”).
-
-Il plurale di “euro” non è scorretto, anche se il singolare è preferibile.
-
-|
-
 .. _numeri:
 
 Numeri 
