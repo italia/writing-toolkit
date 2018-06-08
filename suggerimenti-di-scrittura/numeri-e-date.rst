@@ -68,5 +68,12 @@ Per i documenti tecnici, il numero è scritto in cifre ed è seguito dal simbolo
 
    *Una temperatura di 25 °C*
 
-Nei documenti divulgativi, puoi esprimere sia il numero che l’unità di misura in lettere (vedi anche `Numeri <#numeri>`__).
+In tutti gli altri contesti, puoi esprimere sia il numero che l’unità di misura in lettere (vedi anche `Numeri <#numeri>`__).
+
+**Usa** 
+   *Una distanza di tre chilometri*
+
+   *Un peso di 15 chili*
+
+   *Una temperatura di 25 gradi*
 
