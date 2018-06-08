@@ -16,6 +16,11 @@ Quando gli acronimi sono molto diffusi, di facile comprensione e il loro utilizz
 
 |
 
+Esempi
+------
+
+Usa sempre degli esempi concreti per spiegare meglio le informazioni che stai dando al cittadino. Un esempio è un ottimo modo per spiegare un concetto e rendere il testo più chiaro, senza dilungarsi in lunghe spiegazioni.
+
 Linguaggio breve e semplice
 ---------------------------
 
