@@ -14,7 +14,7 @@ I
         |
    
    imposta sul valore aggiunto, IVA
-        L’acronimo è tutto maiuscolo (vedi “\ `Sigle e acronimi <#acronimi>`__\ ”). Quando è scritto per esteso, non richiede lettere maiuscole.
+        L’acronimo è tutto maiuscolo (vedi :ref:`Sigle e acronimi <acronimi>`). Quando è scritto per esteso, non richiede lettere maiuscole.
 
         |
    
