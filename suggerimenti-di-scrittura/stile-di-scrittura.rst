@@ -63,7 +63,7 @@ Parole straniere
 
 -  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
 
--  Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci *tablets*”.
+-  Le parole straniere di uso comune non si declinano in italiano: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci tablets”.
 
 |
 
@@ -71,6 +71,24 @@ Simboli
 -------
 
 Anche se simboli come “&” o “%” possono rendere il testo più breve, spesso rendono più difficile la lettura. Meglio scrivere per esteso (es. “Il 50 per cento degli abitanti” - vedi anche: :ref:`Numeri <numeri>` e :ref:`Percentuali <percentuali>`).
+
+|
+
+Usa il tono di voce giusto
+--------------------------
+
+I cittadini fanno sui siti della Pubblica Amministrazione cose molto diverse tra loro: ricevono informazioni, pagano, leggono norme, prenotano servizi, ottengono certificati, ecc. Usa il tono di voce più appropriato a ciascuna circostanza.
+
+Per approfondire: `Vai alla sezione sul tono di voce <../tono-di-voce.html>`_
+
+|
+
+Vai dritto al punto
+-------------------
+
+Prima di scrivere qualsiasi contenuto sul tuo sito, chiediti di che cosa ha bisogno l’utente e dai una risposta. Quando spieghi qualcosa a un cittadino, cerca sempre di rispondere alle domande chiave: chi, cosa, dove, come e quando. 
+
+Non scrivere più di quanto serve. Non scrivere la stessa informazione in punti diversi del sito, usa i link per collegare le informazioni. Le persone hanno poco tempo: sii preciso e non aggiungere complessità.
 
 |
 
@@ -91,7 +109,6 @@ Scegli forme verbali che contribuiscano a rendere il testo più chiaro possibile
 
    **Usa**
       *Scarica il bando per la richiesta dei contributi.*
-
       
    **Non usare**
       *Il cittadino interessato può reperire il bando per la richiesta di contributi in questa sezione.*
@@ -99,9 +116,9 @@ Scegli forme verbali che contribuiscano a rendere il testo più chiaro possibile
 -  Mantieni un linguaggio semplice, diretto e chiaro, evitando forme impersonali:
 
    **Usa**
-      *Iscriviti sul sito del comune.*
+      *Iscriviti sul sito del Comune.*
 
    **Non usare**
-      *È possibile iscriversi sul sito del comune.*
+      *È possibile iscriversi sul sito del Comune.*
 
 
