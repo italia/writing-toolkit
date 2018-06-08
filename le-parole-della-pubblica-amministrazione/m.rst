@@ -28,6 +28,8 @@ M
 
            *Scrivi al ministro*
 
+        Si declina al femminile (*la ministra*).
+
         |
    
    mission 
