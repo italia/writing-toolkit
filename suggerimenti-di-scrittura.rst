@@ -33,7 +33,7 @@ Queste regole sono aperte a modifiche e nuovi spunti:
    :maxdepth: 1
    :caption: I nostri suggerimenti
 
-   suggerimenti-di-scrittura/accessibilita-e-inclusivita.rst
+   suggerimenti-di-scrittura/accessibilita-e-inclusione.rst
    suggerimenti-di-scrittura/come-strutturare-il-contenuto.rst
    suggerimenti-di-scrittura/gestione-dei-contenuti.rst
    suggerimenti-di-scrittura/numeri-e-date.rst

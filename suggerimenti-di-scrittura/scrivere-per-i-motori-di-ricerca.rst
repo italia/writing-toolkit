@@ -12,6 +12,13 @@ Accompagna sempre le immagini con delle didascalie sintetiche (non più di due r
 
 |
 
+Migrazione dei contenuti
+------------------------
+
+Nel caso di contenuti trasferiti in una nuova versione del sito o in un’altra sezione, usa dei *redirect* per non perdere l’indicizzazione delle pagine e dei contenuti della versione precedente. In questo modo puoi indirizzare gli utenti che arrivano dai motori di ricerca verso i contenuti che stanno cercando. 
+
+|
+
 Parole chiave
 -------------
 
@@ -58,6 +65,8 @@ Il titolo dovrebbe inoltre:
 -  non contenere caratteri speciali (inclusi slash e trattini);
 
 -  non avere il punto alla fine;
+
+-  rispettare le normali regole sulle maiuscole (non usare le maiuscole per tutti i termini); 
 
 -  non usare acronimi.
 

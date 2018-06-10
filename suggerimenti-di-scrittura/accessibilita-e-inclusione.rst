@@ -1,11 +1,18 @@
-Accessibilità e inclusività
-===========================
+Accessibilità e inclusione
+==========================
 
 
 Captcha
 -------
 
 Prevedi dei controlli di verifica antispam (captcha) che non siano basati solo su immagini, audio o distinzione di colori.
+
+|
+
+Colore del carattere
+--------------------
+
+Verifica la leggibilità di tutti i tuoi contenuti, assicurandoti che ci sia un contrasto adeguato tra il colore del testo e quello dello sfondo.
 
 |
 
@@ -38,6 +45,28 @@ Assicurati che i tuoi contenuti siano egualmente fruibili da tutti (anche da chi
 Parla di “persone con disabilità”, evita invece formule come “diversamente abile, disabile, handicappato” (`approfondisci <http://invisibili.corriere.it/2012/04/05/invalido-a-chi-disabilita-le-parole-corrette/>`__) o “persone che soffrono di una disabilità”.
 
 Vedi anche `email <come-strutturare-il-contenuto.html#email>`_ e `Numeri di telefono <come-strutturare-il-contenuto.html#numeri-di-telefono>`_.
+
+|
+
+Femminile
+---------
+
+Declina i termini al femminile quando la persona che ricopre l’incarico è donna, tranne quando i termini sono adatti sia al maschile che al femminile (es. presidente):
+
+**Usa**
+   *La ministra*
+
+   *La sindaca*
+   
+   *La architetta*
+   
+   *La giudice*
+   
+   *La ambasciatrice*
+   
+   *La presidente*
+   
+   *La dirigente*
 
 |
 
@@ -86,6 +115,8 @@ Ogni pulsante dovrebbe basarsi sempre su combinazioni di forme, colori e testo. 
 **Non usare**
    *Clicca qui*
 
+Per approfondire: `Disegnare un’interfaccia accessibile <https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_it/accessibility-posters-set_it.pdf>`_ (pdf su GitHub, 586 kb)
+
 |
 
 Testo alternativo / Alt text
@@ -114,4 +145,5 @@ Puoi usare traduttori automatici, ma:
 
 -  assicurati che il testo sia comprensibile anche se non è tradotto tutto il contesto in cui è pubblicato.
 
+Quando pubblichi un contenuto in un’altra lingua, assicurati di tradurre anche i tag e i metadati. 
 
