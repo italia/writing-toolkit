@@ -1,6 +1,41 @@
 Come strutturare il contenuto
 =============================
 
+Documenti allegati, pdf
+-----------------------
+
+Scrivi i tuoi contenuti all’interno di una pagina web piuttosto che all’interno di documenti allegati (come i pdf). 
+
+Quando possibile, utilizza la piattaforma Docs Italia per pubblicare tutti i documenti legati alla Pubblica Amministrazione.
+
+Se devi pubblicare il tuo contenuto all’interno di un documento allegato (per esempio nel caso di alcune normative), assicurati:
+
+- che i documenti siano scritti in modo chiaro, semplice e accessibile per tutti i cittadini;
+
+- che non ci siano pagine bianche o immagini superflue;
+
+- di gestire i metadati e la gerarchia dei titoli (H1, H2, ecc) in modo corretto;
+
+- di inserire sempre una descrizione del contenuto del documento nella pagina web, prima del link al documento;
+
+- di specificare nel link al documento che si sta aprendo un file, la tipologia (doc; pdf), il peso.
+
+**Per approfondire**
+   Guida alla pubblicazione di documenti tecnici (in lavorazione)
+   
+   `Guida all’utilizzo di Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_
+
+   `Tool per stimare la leggibilità <https://labs.translated.net/?l=it>`_ del testo dei tuoi documenti
+
+|
+
+.. _faq:
+
+Domande frequenti (Faq)
+-----------------------
+
+Se le pagine del tuo sito spiegano in modo chiaro e sintetico le informazioni che gli utenti cercano non è necessario creare delle Faq, che finirebbero solo per duplicare i contenuti. Se ci sono domande frequenti, invece di creare delle Faq mischiando diversi argomenti in una sezione separata del sito, adegua il contenuto delle tue pagine per soddisfare la richiesta e le reali esigenze di informazione degli utenti.
+
 Elenchi puntati e numerati
 --------------------------
 
@@ -39,15 +74,6 @@ Si scrive senza trattini o spazi, in minuscolo. Inserisci gli indirizzi email co
 
 |
 
-.. _faq:
-
-Faq
----
-
-Se le pagine del tuo sito spiegano in modo chiaro e sintetico le informazioni che gli utenti cercano non è necessario creare delle Faq, che finirebbero solo per duplicare i contenuti. Se ci sono domande frequenti, invece di creare delle Faq mischiando diversi argomenti in una sezione separata del sito, adegua il contenuto delle tue pagine per soddisfare la richiesta e le reali esigenze di informazione degli utenti.
-
-|
-
 Immagini
 --------
 
@@ -70,9 +96,11 @@ Link
 
 L’utilizzo dei link è molto utile per rendere un testo breve e rimandare ad altri contenuti per ulteriori approfondimenti.
 
--  Assicurati che sia chiara la destinazione di ogni link o lo scopo del collegamento;
+-  Assicurati che sia chiara la destinazione di ogni link o lo scopo del collegamento.
 
 -  Inserisci solo collegamenti a contenuti che abbiano un’effettiva pertinenza e utilità con il contenuto: inserire troppi link inutili rischia di rendere meno chiaro il testo.
+
+-  Apri il link nella stessa scheda, tranne in alcune eccezioni (es. una nuova finestra cifrata o se il link rimanda a un altro sito).
 
 **Usa**
    Leggi la scheda di sintesi `Rapporto sull'attuazione del Servizio Civile: anno 2017 <#>`__
@@ -98,6 +126,21 @@ Nei menu usa etichette di navigazione tenendo sempre in considerazione il punto 
 
 **Non usare**
    *Imprese*
+
+|
+
+Note
+----
+
+Non utilizzare mai le note in una pagina web, tranne che per citare le norme quando ricorri a dei :ref:`riferimenti normativi <rif-normativi>`.
+
+Per altri tipi di approfondimento, come: 
+
+-  lista di una documentazione tecnica o di altro genere;
+-  bibliografia;
+-  link di approfondimento;
+
+puoi utilizzare degli elenchi, includendo sempre dei link al documento completo, quando disponibile. 
 
 |
 
