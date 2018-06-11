@@ -94,13 +94,13 @@ Per approfondire, leggi `la sezione dedicata alle immagini delle Linee guida di 
 Link 
 -----
 
-L’utilizzo dei link è molto utile per rendere un testo breve e rimandare ad altri contenuti per ulteriori approfondimenti.
+L’utilizzo dei link è molto utile per rendere un testo breve e rimandare ad altri contenuti per ulteriori approfondimenti:
 
--  Assicurati che sia chiara la destinazione di ogni link o lo scopo del collegamento.
+-  assicurati che sia chiara la destinazione di ogni link o lo scopo del collegamento;
 
--  Inserisci solo collegamenti a contenuti che abbiano un’effettiva pertinenza e utilità con il contenuto: inserire troppi link inutili rischia di rendere meno chiaro il testo.
+-  inserisci solo collegamenti a contenuti che abbiano un’effettiva pertinenza e utilità con il contenuto: inserire troppi link inutili rischia di rendere meno chiaro il testo;
 
--  Apri il link nella stessa scheda, tranne in alcune eccezioni (es. una nuova finestra cifrata o se il link rimanda a un altro sito).
+-  apri il link nella stessa scheda, tranne in alcune eccezioni (es. una nuova finestra cifrata o se il link rimanda a un altro sito).
 
 **Usa**
    Leggi la scheda di sintesi `Rapporto sull'attuazione del Servizio Civile: anno 2017 <#>`__
