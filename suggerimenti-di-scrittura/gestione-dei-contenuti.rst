@@ -53,7 +53,7 @@ Pianifica i contenuti
 
 Prima di pubblicare un nuovo contenuto, analizza ciò che le persone cercano e concentrati sui loro bisogni. Ogni pagina che crei deve avere uno scopo unico e chiaro, la prima cosa è definirlo, in termini di capacità di quella pagina di dare risposta ai bisogni delle persone.
 
-Concentrati sulle cose importanti. Fa un esercizio di content journey (`lo trovi qui <https://docs.google.com/presentation/d/1x5wtOl0D5LZEugRAp7-XwNdcyAV_ScG9O2e9Jy2Pnbg/edit#slide=id.g3aa676022e_0_394>`_) per capire:
+Concentrati sulle cose importanti. Fai un `esercizio di content journey <https://docs.google.com/presentation/d/1x5wtOl0D5LZEugRAp7-XwNdcyAV_ScG9O2e9Jy2Pnbg/edit#slide=id.g3aa676022e_0_394>`_ per capire:
 
 - che tipo di informazioni cercano gli utenti;
 - in quale sezione del sito cercano le informazioni.
