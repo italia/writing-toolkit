@@ -52,6 +52,8 @@ C
    
         **Non usare**
            *...per il conseguimento degli obiettivi...*
+        
+        Per approfondire: [regole per un linguaggio breve e semplice](http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice)
 
         |
         
