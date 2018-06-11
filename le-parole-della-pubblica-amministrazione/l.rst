@@ -11,11 +11,11 @@ L
 
            *Testo definitivo della Legge di Bilancio 2018 (Legge 205/2017)*
    
-    Locazione
-         Preferisci l'uso di termini più semplici (affitto)
+    locazione
+         Preferisci l'uso di termini più semplici (affitto).
          
          **Usa**
-            *...l'immobile viene affittato a partire da..."
+            *L'immobile viene affittato a partire da...*
             
          **Non usare**
-            *...l'immobile viene ceduto in locazione a partire da..."
+            *L'immobile viene ceduto in locazione a partire da...*
