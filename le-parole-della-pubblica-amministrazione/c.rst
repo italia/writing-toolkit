@@ -49,16 +49,16 @@ C
 
         |
    
-    conseguimento
-        Evita l’uso di questo termine, in particolare nella forma di `nominalizzazione <http://www.treccani.it/enciclopedia/nominalizzazione_%28La-grammatica-italiana%29/>` (ovvero come trasformazione in sostantivo di un verbo).
+   conseguimento
+        Evita l’uso di questo termine, in particolare nella forma di `nominalizzazione <http://www.treccani.it/enciclopedia/nominalizzazione_%28La-grammatica-italiana%29/>`_ (ovvero come trasformazione in sostantivo di un verbo).
    
-       **Usa**
-           *...per raggiungere gli obiettivi...*
+        **Usa**
+           *Per raggiungere gli obiettivi...*
    
         **Non usare**
-           *...per il conseguimento degli obiettivi...*
+           *Per il conseguimento degli obiettivi...*
         
-        Per approfondire: [regole per un linguaggio breve e semplice](http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice)
+        Per approfondire: `regole per un linguaggio breve e semplice <http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice>`_
 
         |
         
