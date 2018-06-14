@@ -25,7 +25,7 @@ A
         |
 
    Agenzia per l’Italia digitale, AGID
-        Tutte le lettere sono maiuscole.
+        Nell'acronimo tutte le lettere sono maiuscole.
 
         |
 
