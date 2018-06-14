@@ -24,8 +24,8 @@ A
 
         |
 
-   Agenzia per l’Italia Digitale, AgID
-        Nell’acronimo, la “g” è minuscola. 
+   Agenzia per l’Italia digitale, AGID
+        Tutte le lettere sono maiuscole.
 
         |
 
