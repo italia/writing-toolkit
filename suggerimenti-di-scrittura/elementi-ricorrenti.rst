@@ -1,5 +1,5 @@
-Termini ricorrenti
-==================
+Elementi ricorrenti
+===================
 
 Cariche istituzionali
 ---------------------

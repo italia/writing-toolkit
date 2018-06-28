@@ -35,12 +35,12 @@ Queste regole sono aperte a modifiche e nuovi spunti:
 
    suggerimenti-di-scrittura/accessibilita-e-inclusione.rst
    suggerimenti-di-scrittura/come-strutturare-il-contenuto.rst
+   suggerimenti-di-scrittura/elementi-ricorrenti.rst
    suggerimenti-di-scrittura/gestione-dei-contenuti.rst
    suggerimenti-di-scrittura/numeri-e-date.rst
    suggerimenti-di-scrittura/punteggiatura-e-grammatica.rst
    suggerimenti-di-scrittura/regole-di-formattazione.rst
    suggerimenti-di-scrittura/scrivere-per-i-motori-di-ricerca.rst
    suggerimenti-di-scrittura/stile-di-scrittura.rst
-   suggerimenti-di-scrittura/termini-ricorrenti.rst
    suggerimenti-di-scrittura/usabilita.rst
    
