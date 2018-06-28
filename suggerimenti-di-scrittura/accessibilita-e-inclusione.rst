@@ -90,8 +90,8 @@ Usa i termini più appropriati per distinguere correttamente tra persone richied
 
 |
 
-Inclusività del linguaggio
---------------------------
+Linguaggio inclusivo
+--------------------
 
 Usa sempre un linguaggio inclusivo orientato verso le persone, a prescindere dal genere, l’orientamento sessuale, la nazionalità o le origini, la religione o altre caratteristiche fisiche o psicologiche.
 
