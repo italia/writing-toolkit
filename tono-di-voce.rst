@@ -3,7 +3,7 @@ Tono di voce
 
 .. highlights:: 
         
-   Una guida sul tono di voce da utilizzare sui siti internet della Pubblica Amministrazione, a seconda delle attività e dei bisogni del cittadino. 
+   Una guida sul tono di voce da utilizzare sui siti della Pubblica Amministrazione, a seconda delle attività e dei bisogni del cittadino. 
 
 
 Il cittadino che visita un sito della Pubblica Amministrazione ha uno stato
