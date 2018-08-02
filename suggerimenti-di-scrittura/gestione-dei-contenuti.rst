@@ -1,6 +1,11 @@
 Gestione dei contenuti
 ======================
 
+*La progettazione e la gestione dei contenuti devono essere pensate all'interno del più ampio percorso di progettazione o riprogrettazione di un servizio. Esse chiamano in causa decisioni di architettura dell'informazione e decisioni chiave relative alla terminologia da utilizzare e al tono di voce.*
+
+*L'esito di questo percorso è la creazione dell'ecosistema informativo in cui l'utente cercherà e utilizzerà i servizi della Pubblica Amministrazione. Per approfondire vai alla `sezione dedicata al linguaggio e ai contenuti <https://design-italia.readthedocs.io/it/latest/doc/content-design.html>`_ delle linee guida di design dei servizi della Pubblica Amministrazione.*
+
+
 Aggiorna i contenuti
 --------------------
 
@@ -44,7 +49,7 @@ Per verificare l’efficacia dei tuoi contenuti, fissa degli obiettivi misurabil
 - aumentare l’uso del servizio;
 - ridurre il tempo che gli utenti impiegano a ottenere qualcosa online. 
 
-Misura l’efficacia dei tuoi contenuti rispetto a questi obiettivi, attraverso dei :ref:`test <test-contenuti>` o degli strumenti di `web analytics <https://designers.italia.it/kit/analytics/>`_. 
+Un buon metodo di lavoro è definire un obiettivo chiaro per ciascuna pagina web (eliminando le pagine che non hanno obiettivi chiari). Misura l’efficacia dei tuoi contenuti rispetto a questi obiettivi, attraverso dei :ref:`test <test-contenuti>` o degli strumenti di  `web analytics <https://designers.italia.it/kit/analytics/>`_. 
 
 |
 
@@ -81,8 +86,7 @@ Quando sono necessari interventi rilevanti sui testi, fai una seconda revisione 
 Test sui contenuti
 ------------------
 
-Fai dei test periodici sui contenuti del tuo sito, per verificare attraverso gli utenti se i contenuti e le informazioni sono chiari e facili da trovare. Usa:
+Fai dei test periodici sui contenuti del tuo sito, per verificare se i contenuti e le informazioni sono chiari e facili da trovare.
 
-- i `test di usabilità <https://designers.italia.it/kit/usability-test/>`_;
-- gli A/B test.
-
+- Audit dei contenuti: fai `un audit sui contenuti del tuo sito <https://docs.google.com/spreadsheets/u/1/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`_, coinvolgendo altre persone nella valutazione;
+- Fai dei test con gli utenti, utilizzando: `i test di usabilità <https://designers.italia.it/kit/usability-test/>`_; gli `A/B test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`_.
