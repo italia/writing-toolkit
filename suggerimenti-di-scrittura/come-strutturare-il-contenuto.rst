@@ -36,6 +36,8 @@ Domande frequenti (Faq)
 
 Se le pagine del tuo sito spiegano in modo chiaro e sintetico le informazioni che gli utenti cercano non è necessario creare delle Faq, che finirebbero solo per duplicare i contenuti. Se ci sono domande frequenti, invece di creare delle Faq mischiando diversi argomenti in una sezione separata del sito, adegua il contenuto delle tue pagine per soddisfare la richiesta e le reali esigenze di informazione degli utenti.
 
+|
+
 Elenchi puntati e numerati
 --------------------------
 
