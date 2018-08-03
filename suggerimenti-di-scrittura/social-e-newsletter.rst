@@ -81,14 +81,14 @@ Prima di inviare, valuta sempre l’efficacia e la chiarezza dei contenuti dentr
 Come gestire una newsletter
 ---------------------------
 
-Una newsletter è un’ottimo mezzo per instaurare un canale diretto di comunicazione e aggiornamento con gli utenti del tuo sito. Quando organizzi una newsletter chiarisci: 
+Una newsletter è un ottimo mezzo per instaurare un canale diretto di comunicazione e aggiornamento con gli utenti del tuo sito. Quando organizzi una newsletter chiarisci: 
 
 - chi sono i destinatari (professionisti, cittadini, curiosi, ecc);
 - quale scopo informativo deve assolvere ogni invio.
 
 Lo scopo di una newsletter in genere può essere quello di: 
 
-- aggiornare gli utenti su delle novità (es. nuovi contenuti nel sito, progetti, attività, ecc);
+- aggiornare gli utenti sulle novità (es. nuovi contenuti nel sito, progetti, attività, ecc);
 - coinvolgere gli utenti in alcune iniziative (es. eventi pubblici, consultazioni, attività partecipative, ecc).
 
 Per gestire correttamente lo scopo di ciascun invio è opportuno pianificare la gestione delle newsletter in un piano editoriale, organizzando il lavoro del team in riunioni periodiche (una a settimana, una al mese, ecc.) per definire:
@@ -101,14 +101,14 @@ Per gestire correttamente lo scopo di ciascun invio è opportuno pianificare la 
 Come scrivere una newsletter
 ----------------------------
 
-Gestisci scrittura della newsletter attraverso strumenti collaborativi, che possono essere legati alla scrittura del testo, come Google Docs, oppure legati alla creazione della newsletter vera e propria, come ad esempio i Collaboration tool di Mailup. 
+Gestisci la scrittura della newsletter attraverso strumenti collaborativi, che possono essere legati alla scrittura del testo, come Google Docs, oppure legati alla creazione della newsletter vera e propria, come ad esempio i Collaboration tool di Mailup. 
 
 Questo permette a tutte le persone del team che hanno maggiore competenza sugli argomenti trattati di fare commenti e revisioni. 
 Ricorda che:
 
 - una newsletter dovrebbe restare breve e fruibile (anche da mobile), se necessario rimandando a dei contenuti sul sito con dei link;
 - è consigliabile non mettere un eccessivo numero di argomenti in una newsletter, ma concentrarsi sui più importanti, per non renderne difficile la fruizione;
-- l’oggetto della mail deve spiegare in una riga il contenuto più rilevante (ad esempio, “Novità sul bando del servizio civile”). Se ottieni maggiore efficacia, puoi aggiungere nel testo titolo, sommario e altri paragrafi.
+- l’oggetto della mail deve spiegare in una riga il contenuto più rilevante (ad esempio, “Novità sul bando del servizio civile”). Puoi aggiungere nel testo titolo, sommario e una divisione in paragrafi, se questo rende i contenuti più fruibili;
 - puoi utilizzare oggetti multimediali (foto, video embeddati, tweet, ecc), ma senza esagerare, rispettando la pertinenza con gli argomenti trattati e ricordando che devono essere fruibili su mobile. Non mettere foto troppo pesanti (attieniti alle regole sull’utilizzo delle immagini sui siti web); 
 - l’utilizzo di bottoni è molto utile per spingere l’utente a compiere delle azioni (es. “Registrati adesso!”);
 
