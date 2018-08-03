@@ -6,8 +6,8 @@ Archiviazione
 
 È una buona pratica organizzarsi in modo da avere un archivio delle immagini funzionale e ordinato. A questo scopo dovresti:
 
-- nominare i file di modo che contengano keyword relative all’oggetto della foto e la data di acquisizione o comunque in maniera uniforme;
-- organizzare le foto in cartelle per tema o evento;
+- nominare i file di modo che contengano parole chiave relative all’oggetto della foto e alla data di acquisizione. In alternativa, usa dei nomi uniformi tra tutti i file;
+- organizzare le foto in cartelle, per tema o evento;
 - utilizzare i tag, pensando a possibili utilizzi alternativi per una stessa foto;
 - effettuare un backup periodico delle immagini.
 
