@@ -49,7 +49,7 @@ Per verificare l’efficacia dei tuoi contenuti, fissa degli obiettivi misurabil
 - aumentare l’uso del servizio;
 - ridurre il tempo che gli utenti impiegano a ottenere qualcosa online. 
 
-Un buon metodo di lavoro è definire un obiettivo chiaro per ciascuna pagina web (eliminando le pagine che non hanno obiettivi chiari). Misura l’efficacia dei tuoi contenuti rispetto a questi obiettivi, attraverso dei :ref:`test <test-contenuti>` o degli strumenti di  `web analytics <https://designers.italia.it/kit/analytics/>`_. 
+Un buon metodo di lavoro è definire un obiettivo chiaro per ciascuna pagina web (eliminando le pagine che non hanno obiettivi chiari). Misura l’efficacia dei tuoi contenuti rispetto a questi obiettivi, attraverso dei :ref:`test <test-contenuti>` o degli strumenti di `web analytics <https://designers.italia.it/kit/analytics/>`_. 
 
 |
 
