@@ -21,6 +21,7 @@ Per rendere comprensibili i dati da parte degli utenti, cerca di presentarli in 
 - `Wakelet <https://wakelet.com/>`_ serve a creare e condividere delle “storie” basate su foto, video, tweet, testi e altri contenuti online, in delle bacheche che possono essere embeddate nel proprio sito. 
 
 **Per approfondire:** `Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/>`_
+
 |
 
 Documenti allegati, pdf
