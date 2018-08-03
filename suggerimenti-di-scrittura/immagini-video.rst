@@ -26,14 +26,13 @@ Come ogni contenuto che pubblichi sul web, ci vuole buon senso anche nella pubbl
 
 Ricordati di:
 
-- accompagnare ogni foto con una didascalia;
 - citare l’autore;
 - riportare la licenza di pubblicazione.
 
 Quando pubblichi un’immagine assicurati:
 
-- che il file abbia un nome che ne riflette il contenuto (per esempio, se pubblichi una foto del Teatro antico di Taormina il nome del file potrebbe essere teatro-antico-taormina.jpg): sarà più facile indicizzarla per i motori di ricerca e di conseguenza per gli utenti trovarla;
-- di mettere una didascalia e `un testo alternativo per l'accessibilità <https://cad.readthedocs.io/it/v2017-12-13/_rst/capo5_sezione1_art52.html>`_. 
+- che il file abbia un nome che ne rifletta il contenuto (per esempio, se pubblichi una foto del Teatro antico di Taormina il nome del file potrebbe essere teatro-antico-taormina.jpg): sarà più facile indicizzarla per i motori di ricerca e di conseguenza per gli utenti trovarla;
+- di aggiungere una didascalia e inserire `un testo alternativo per l'accessibilità <https://cad.readthedocs.io/it/v2017-12-13/_rst/capo5_sezione1_art52.html>`_. 
 
 |
 
@@ -46,7 +45,7 @@ Prima di pubblicare un’immagine è opportuno verificare che sia ottimizzata pe
 
 - Risoluzione: 72 ppi
 - Formato: JPG (JPEG), PNG
-- Modello di colori: RBG
+- Modello di colori: RGB
 
 |
 
