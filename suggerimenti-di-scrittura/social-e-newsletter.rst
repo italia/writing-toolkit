@@ -22,7 +22,7 @@ Crea un piano che regoli le pubblicazioni, per garantire un’attività costante
 - chi deve gestire i flussi di produzione e pubblicazione dei contenuti;
 - che tipo di monitoraggio è necessario (analytics dei singoli post, interazioni degli utenti, ecc, in funzione degli obiettivi). 
 
-Considera che le informazioni proposte su social sono temporanee. Se è necessario fornire un’informazione duratura, questa deve essere riposta all’interno del sito dell’ente (ad esempio una notizia) e promossa tramite social. 
+Considera che le informazioni proposte sui social sono temporanee. Se è necessario fornire un’informazione duratura, questa deve essere riposta all’interno del sito dell’ente (ad esempio una notizia) e promossa tramite social. 
 
 |
 
@@ -49,7 +49,7 @@ I social network sono canali di comunicazione bidirezionali, dove gli utenti par
 
 Non considerare questo aspetto come un problema da gestire ma come una risorsa per comunicare con gli utenti in un ambiente percepito come più immediato e semplice:
 
-- monitora il canale social con un‘attività pianificata;
+- monitora il canale social con un’attività pianificata;
 - indirizza le richieste ai canali di contatto più appropriati. 
 
 L’interazione degli utenti nei canali social può essere una risorsa utile anche per proporre contenuti che chiedono maggiore partecipazione. Ad esempio, i social possono essere un buon mezzo per fare: 
@@ -109,7 +109,7 @@ Ricorda che:
 - una newsletter dovrebbe restare breve e fruibile (anche da mobile), se necessario rimandando a dei contenuti sul sito con dei link;
 - è consigliabile non mettere un eccessivo numero di argomenti in una newsletter, ma concentrarsi sui più importanti, per non renderne difficile la fruizione;
 - l’oggetto della mail deve spiegare in una riga il contenuto più rilevante (ad esempio, “Novità sul bando del servizio civile”). Puoi aggiungere nel testo titolo, sommario e una divisione in paragrafi, se questo rende i contenuti più fruibili;
-- puoi utilizzare oggetti multimediali (foto, video embeddati, tweet, ecc), ma senza esagerare, rispettando la pertinenza con gli argomenti trattati e ricordando che devono essere fruibili su mobile. Non mettere foto troppo pesanti (attieniti alle regole sull’utilizzo delle immagini sui siti web); 
+- puoi utilizzare oggetti multimediali (foto, video embeddati, tweet, ecc), ma senza esagerare, rispettando la pertinenza con gli argomenti trattati e ricordando che devono essere fruibili su mobile. Non mettere foto troppo pesanti (attieniti alle :ref:`regole sull’utilizzo delle immagini sui siti web <immagini-e-video>`); 
 - l’utilizzo di bottoni è molto utile per spingere l’utente a compiere delle azioni (es. “Registrati adesso!”);
 
 |

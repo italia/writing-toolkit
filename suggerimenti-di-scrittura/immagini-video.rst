@@ -1,3 +1,5 @@
+.. _immagini-e-video:
+
 Immagini, video
 ===============
 
