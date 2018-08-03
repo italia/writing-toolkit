@@ -89,4 +89,4 @@ Test sui contenuti
 Fai dei test periodici sui contenuti del tuo sito, per verificare se i contenuti e le informazioni sono chiari e facili da trovare.
 
 - Audit dei contenuti: fai `un audit sui contenuti del tuo sito <https://docs.google.com/spreadsheets/u/1/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`_, coinvolgendo altre persone nella valutazione;
-- Fai dei test con gli utenti, utilizzando: `i test di usabilità <https://designers.italia.it/kit/usability-test/>`_; gli `A/B test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`_.
+- Fai dei test con gli utenti, utilizzando `i test di usabilità <https://designers.italia.it/kit/usability-test/>`_ e gli `A/B test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`_.
