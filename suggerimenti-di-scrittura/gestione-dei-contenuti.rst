@@ -1,9 +1,9 @@
 Gestione dei contenuti
 ======================
 
-*La progettazione e la gestione dei contenuti devono essere pensate all'interno del più ampio percorso di progettazione o riprogrettazione di un servizio. Esse chiamano in causa decisioni di architettura dell'informazione e decisioni chiave relative alla terminologia da utilizzare e al tono di voce.*
+La progettazione e la gestione dei contenuti devono essere pensate all'interno del più ampio percorso di progettazione o riprogrettazione di un servizio. Esse chiamano in causa decisioni di architettura dell'informazione e decisioni chiave relative alla terminologia da utilizzare e al tono di voce.
 
-*L'esito di questo percorso è la creazione dell'ecosistema informativo in cui l'utente cercherà e utilizzerà i servizi della Pubblica Amministrazione. Per approfondire vai alla `sezione dedicata al linguaggio e ai contenuti <https://design-italia.readthedocs.io/it/latest/doc/content-design.html>`_ delle linee guida di design dei servizi della Pubblica Amministrazione.*
+L'esito di questo percorso è la creazione dell'ecosistema informativo in cui l'utente cercherà e utilizzerà i servizi della Pubblica Amministrazione. Per approfondire vai alla `sezione dedicata al linguaggio e ai contenuti <https://design-italia.readthedocs.io/it/latest/doc/content-design.html>`_ delle linee guida di design dei servizi della Pubblica Amministrazione.
 
 
 Aggiorna i contenuti
