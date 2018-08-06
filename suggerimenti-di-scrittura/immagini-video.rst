@@ -34,7 +34,7 @@ Ricordati di:
 Quando pubblichi un’immagine assicurati:
 
 - che il file abbia un nome che ne rifletta il contenuto (per esempio, se pubblichi una foto del Teatro antico di Taormina il nome del file potrebbe essere teatro-antico-taormina.jpg): sarà più facile indicizzarla per i motori di ricerca e di conseguenza per gli utenti trovarla;
-- di aggiungere una didascalia e inserire `un testo alternativo per l'accessibilità <https://cad.readthedocs.io/it/v2017-12-13/_rst/capo5_sezione1_art52.html>`_. 
+- di aggiungere una didascalia e inserire `un testo alternativo per l'accessibilità <https://cad.readthedocs.io/it/v2017-12-13/_rst/capo5_sezione1_art53.html>`_. 
 
 |
 
@@ -74,7 +74,7 @@ Editing video
 
 Esistono dei tool online anche per piccoli e utili interventi di editing video, come per esempio l’`aggiunta di una traccia audio <https://support.google.com/youtube/answer/3376882>`_ o `di sottotitoli <https://support.google.com/youtube/answer/2734796?hl=it>`_. YouTube ne mette a disposizione diversi: qui trovi una guida all’editing con YouTube. 
 
-Alcuni tool online (per esempio `Ezgif <https://ezgif.com/>`_) permettono di creare facilmente delle animazioni di pochi secondi (in formato Gif) partendo da una serie di immagini statiche o da porzioni di video, eventualmente aggiungendo sottotitoli, testi, semplici effetti.
+Alcuni strumenti online (per esempio `Ezgif <https://ezgif.com/>`_) permettono di creare facilmente delle animazioni di pochi secondi (in formato Gif) partendo da una serie di immagini statiche o da porzioni di video, eventualmente aggiungendo sottotitoli, testi, semplici effetti.
 
 |
 
