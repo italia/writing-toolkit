@@ -61,7 +61,7 @@ Se hai la necessità di fare semplici modifiche alle immagini (correggere le dim
 - `Pixlr Express <https://pixlr.com/express/>`_
 - `Fotor <http://www.fotor.com/>`_
 
-Altri tool online ti permettono di fare altri tipi di editing con le immagini: 
+Altri strumenti online ti permettono di fare altri tipi di editing con le immagini: 
 
 - `Pablo <https://pablo.buffer.com/>`_: permette di convertire le immagini in dimensioni adatte al web o ai canali social e di associare scritte e loghi.
 - `Photocollage <https://www.photocollage.com/>`_: permette di creare collage di diverse foto.
