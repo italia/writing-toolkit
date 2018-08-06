@@ -4,7 +4,7 @@ Stile di scrittura
 .. _acronimi:
 
 Acronimi 
----------
+--------
 
 Gli acronimi non aiutano la comprensione del testo: evitali il più possibile.
 
@@ -13,13 +13,19 @@ Quando gli acronimi sono molto diffusi, di facile comprensione e il loro utilizz
 -  le sigle, anche se di uso comune, vanno usate solo dopo aver scritto il nome completo per esteso nello stesso contenuto: “Il bando è stato pubblicato dal Ministero dello sviluppo economico (Mise). Il Mise ha anche anche reso noto…”
 
 -  di regola solo la prima lettera è maiuscola: “Mipaaf” per “Ministero delle politiche agricole, alimentari e forestali”. Tra le eccezioni più frequenti: “PA” per “Pubblica Amministrazione”; “UE” per “Unione Europea”; “IVA” per “Imposta a valore aggiunto”.
+|
 
+Cariche istituzionali
+---------------------
+
+Usa l’iniziale minuscola per indicare cariche istituzionali (sindaco, giudice, assessore, ministro) tranne in alcune eccezioni (es. Presidente della Repubblica, Presidente del Consiglio dei ministri).
 |
 
 Esempi
 ------
 
 Usa sempre degli esempi concreti per spiegare meglio le informazioni che stai dando al cittadino. Un esempio è un ottimo modo per spiegare un concetto e rendere il testo più chiaro, senza dilungarsi in lunghe spiegazioni.
+|
 
 Linguaggio breve e semplice
 ---------------------------
@@ -40,6 +46,19 @@ In generale evita l’uso di parole che finiscono in “-zione” o “-mento”
    *Prima di pagare procedi al completamento del modulo*
 
    *Le procedure di semplificazione prevedono che: ...*
+
+|
+
+Nomi dei ministeri e dei dipartimenti
+-------------------------------------
+
+Sebbene nell’uso corrente si faccia in genere un ampio ricorso alle maiuscole per indicare i nomi dei ministeri e di altre strutture istituzionali, di regola solo la prima iniziale è maiuscola:
+
+- Ministero della difesa
+- Ministero delle politiche agricole alimentari e forestali
+- Dipartimento della protezione civile
+
+La stessa regola vale per gli acronimi. 
 
 |
 
@@ -64,6 +83,38 @@ Parole straniere
 -  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
 
 -  Le parole straniere di uso comune non si declinano in italiano: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci tablets”.
+
+|
+
+.. _rif-normativi:
+
+Riferimenti normativi
+---------------------
+
+Cerca di rendere chiaro il testo, evita troppi riferimenti normativi.
+
+Quando è necessario citare una legge:
+
+-  cerca di spiegarne sinteticamente il contenuto invece che citarla testualmente, per rendere più semplice la comprensione e  far capire lo spirito e le intenzioni della norma;
+
+-  utilizza le note per indicare il nome preciso della norma a cui fai riferimento. In ogni nota scrivi un breve estratto del testo e il nome della norma per esteso;
+
+-  evita comunque un linguaggio tecnico (ex ART. 20 comma 2 e 3 della legge n. 247/2012);
+
+-  aggiungi sempre il link alla norma di riferimento, per esempio usando il permalink alla norma su `Normattiva <http://www.normattiva.it/>`_.
+
+**Usa**
+   **Riferimenti normativi**
+
+   *Testo Unico in materia di dati sulla privacy (d.lgs. 169 del 30 giugno 2003), art. 4 lett. d).*
+
+   *I dati sensibili sono “i dati personali idonei a rivelare l’origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l’adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale”.*
+
+
+Quando devi citare diverse norme, puoi ricorrere a un elenco, precisando per ogni norma:
+
+- il nome preciso della norma a cui fai riferimento;
+- un link alla norma completa, se disponibile.
 
 |
 

@@ -1,6 +1,29 @@
 Come strutturare il contenuto
 =============================
 
+Dati
+----
+I dati sono spesso un elemento importante del contenuto gestito all’interno dei siti. Quando pubblichi dei dati, poniti come obbiettivi: 
+
+- la chiarezza;
+- la facilità di fruizione da parte degli utenti. 
+
+Il modo più frequente con cui vengono pubblicati i dati sono le tabelle, che però presentano degli aspetti negativi che vanno considerati, per quanto riguarda: 
+
+- versatilità e fruibilità rispetto nei dispositivi mobile, specialmente con tabelle troppo larghe, troppo lunghe o con troppo contenuto all’interno delle celle;
+- leggibilità dei dati e delle intestazioni della tabella.
+
+Per rendere comprensibili i dati da parte degli utenti, cerca di presentarli in forma visiva, sotto forma di grafici o mappe (data visualization). A seconda del tipo di dati che devi rappresentare, esistono tantissimi strumenti che pui utilizzare, come ad esempio:
+
+- Per pubblicare delle dashboard in continua evoluzione, ad esempio, è possibile usare tool come `Tableau Public <https://public.tableau.com/en-us/s/>`_ o `Metabase <https://www.metabase.com/>`_ (quest’ultimo open source);
+- `Google Charts <https://developers.google.com/chart/>`_, `Plot.ly <https://plot.ly/create/>`_, `Online Charts <https://www.onlinecharttool.com/>`_, `Rawgraphs <http://app.rawgraphs.io/>`_ permettono di rendere in forma grafica dei dati;
+- `MyMaps <https://www.google.com/intl/it/maps/about/mymaps/>`_, `Snazzy Maps <https://snazzymaps.com/>`_ sono utili per creare delle mappe personalizzate;
+- `Wakelet <https://wakelet.com/>`_ serve a creare e condividere delle “storie” basate su foto, video, tweet, testi e altri contenuti online, in delle bacheche che possono essere embeddate nel proprio sito. 
+
+**Per approfondire:** `Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico <http://lg-patrimonio-pubblico.readthedocs.io/it/latest/>`_
+
+|
+
 Documenti allegati, pdf
 -----------------------
 
@@ -35,6 +58,8 @@ Domande frequenti (Faq)
 -----------------------
 
 Se le pagine del tuo sito spiegano in modo chiaro e sintetico le informazioni che gli utenti cercano non è necessario creare delle Faq, che finirebbero solo per duplicare i contenuti. Se ci sono domande frequenti, invece di creare delle Faq mischiando diversi argomenti in una sezione separata del sito, adegua il contenuto delle tue pagine per soddisfare la richiesta e le reali esigenze di informazione degli utenti.
+
+|
 
 Elenchi puntati e numerati
 --------------------------

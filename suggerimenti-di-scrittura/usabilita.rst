@@ -1,6 +1,44 @@
 Usabilità
 =========
 
+Bottoni
+-------
+
+I bottoni sono tipi particolari di collegamenti: permettono di inviare dati al sistema o di eseguire un’azione. Utilizza inviti all’azione sui bottoni (le label) chiari e specifici. 
+
+**Usa**
+  “Cerca”, “Paga adesso”, "Scarica il modulo", "Vai al form", "Iscriviti adesso"
+
+**Non usare**
+  “Ok”, "Invia"
+  
+Il significato di “Cancella” è diverso da quello di “Annulla”.
+
+|
+
+Label
+-----
+
+Una label è in genere un collegamento ad altre aree dell’ambiente: permette, per esempio, di spostarsi nella gerarchia dei contenuti (da un’area generica a una più specifica o viceversa: per esempio dalla pagina “Chi siamo” alla pagina “Contatti”). In questi casi la label è un link. Per questo:
+
+- segui le `buone pratiche di creazione di un link <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html#link>`_;
+- cura con attenzione la label associata, che permette di contestualizzare ulteriormente la risorsa a cui punta il collegamento.  
+
+|
+
+Menu di navigazione
+-------------------
+
+È principalmente attraverso le label delle voci del menu di navigazione che l’utente si fa un’idea dell’organizzazione dei contenuti nell’ambiente in cui sta navigando. Fai delle scelte coerenti ed efficaci per:
+
+- tono (formale / informale); 
+- granularità (specifico / generico);
+- stile.
+
+Scelte efficaci per le etichette del menu di navigazione possono rendere l'ambiente più comprensibile e semplice da utilizzare.
+
+|
+
 Messaggi di conferma
 --------------------
 
