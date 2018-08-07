@@ -6,7 +6,12 @@ D
    decreto legge / decreto legislativo / d.l. / d.lgs.
         All’interno di un testo, cerca di scriverli per esteso, usando le sigle “d.l.” e “d.lgs.” solo per specifici riferimenti normativi.
         Le iniziali sono minuscole.
-
+        
+        |
+        
+   dataset
+         Una collezione di dati, generalmente riguardanti una stessa organizzazione, che vengono erogati e gestiti congiuntamente.
+         
         |
    
    disclaimer
