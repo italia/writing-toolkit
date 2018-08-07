@@ -10,6 +10,8 @@ L
            *... la legge approvata dalle Camere...*
 
            *Testo definitivo della Legge di Bilancio 2018 (Legge 205/2017)*
+           
+           |
    
    locazione
         Preferisci l'uso di termini più semplici (affitto).
