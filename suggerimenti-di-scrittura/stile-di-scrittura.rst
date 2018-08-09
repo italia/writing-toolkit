@@ -19,12 +19,14 @@ Cariche istituzionali
 ---------------------
 
 Usa l’iniziale minuscola per indicare cariche istituzionali (sindaco, giudice, assessore, ministro) tranne in alcune eccezioni (es. Presidente della Repubblica, Presidente del Consiglio dei ministri).
+
 |
 
 Esempi
 ------
 
 Usa sempre degli esempi concreti per spiegare meglio le informazioni che stai dando al cittadino. Un esempio è un ottimo modo per spiegare un concetto e rendere il testo più chiaro, senza dilungarsi in lunghe spiegazioni.
+
 |
 
 Linguaggio breve e semplice
