@@ -1,15 +1,13 @@
 F
 =
 
-.. glossary::
+feedback 
+     Preferisci l’uso di termini italiani (es. “valutazione”, “commenti”, “riscontro”).
+     
+     |
 
-   feedback 
-        Preferisci l’uso di termini italiani (es. “valutazione”, “commenti”, “riscontro”).
-        
-        |
+Frequently asked questions (Faq)
+     Usa l’equivalente italiano “Domande frequenti”. 
 
-   Frequently asked questions (Faq)
-        Usa l’equivalente italiano “Domande frequenti”. 
+     In generale :ref:`evita l’utilizzo di Faq <faq>`.
 
-        In generale :ref:`evita l’utilizzo di Faq <faq>`.
-   
