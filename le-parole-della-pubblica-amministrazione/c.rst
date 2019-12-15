@@ -39,10 +39,12 @@ Comune
 concernere 
      Evita l’uso di questo termine, in particolare nella forma al participio.
 
-     **Usa**
+     .. admonition:: use
+
         *Per dubbi su come utilizzare il servizio leggi la guida.*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Per domande concernenti il servizio consultare la guida.*
 
      |
@@ -50,10 +52,12 @@ concernere
 conseguimento
      Evita l’uso di questo termine, in particolare nella forma di `nominalizzazione <http://www.treccani.it/enciclopedia/nominalizzazione_%28La-grammatica-italiana%29/>`_ (ovvero come trasformazione in sostantivo di un verbo).
 
-     **Usa**
+     .. admonition:: use
+
         *Per raggiungere gli obiettivi...*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Per il conseguimento degli obiettivi...*
      
      Per approfondire: `regole per un linguaggio breve e semplice <http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice>`_

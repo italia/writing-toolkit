@@ -91,10 +91,12 @@ email
 
 Si scrive senza trattini o spazi, in minuscolo. Inserisci gli indirizzi email come link attivi (usando l’attributo “\ **mailto**:”):
 
-**Usa**
+.. admonition:: use
+
    `mario.rossi@comune.it <mailto:mario.rossi@comune.it>`_
 
-**Non usare**
+.. admonition:: use-not
+
    :code:`mario.rossi@comune.it`
 
 |
@@ -127,10 +129,12 @@ L’utilizzo dei link è molto utile per rendere un testo breve e rimandare ad a
 
 -  apri il link nella stessa scheda, tranne in alcune eccezioni (es. una nuova finestra cifrata o se il link rimanda a un altro sito).
 
-**Usa**
+.. admonition:: use
+
    Leggi la scheda di sintesi `Rapporto sull'attuazione del Servizio Civile: anno 2017 <#>`__
 
-**Non usare**
+.. admonition:: use-not
+
    Leggi `qui <#>`__ la scheda di sintesi "Rapporto sull'attuazione del Servizio Civile: anno 2017"
 
 |
@@ -146,10 +150,12 @@ Nei menu usa etichette di navigazione tenendo sempre in considerazione il punto 
 
 -  evita di avere nello stesso sistema label a base verbale (“Scarica il documento”), nominale (“Documenti scaricabili”) e domande (“Devi scaricare il documento?“). Scegli un approccio sintattico e mantienilo.
 
-**Usa**
+.. admonition:: use
+
    *Servizi per le imprese*
 
-**Non usare**
+.. admonition:: use-not
+
    *Imprese*
 
 |
@@ -178,10 +184,12 @@ Proponi un numero di telefono sempre insieme ad altri canali di contatto (mail, 
 
 Quando pubblichi un numero usa anche il prefisso internazionale; raggruppa le cifre separandole con degli spazi, per migliorare la leggibilità. Inserisci i numeri di telefono come link attivi (nel codice html usa l’attributo “\ **tel:**\ ”):
 
-**Usa**
+.. admonition:: use
+
    `+39 06 123 456 78 <tel:+390612345678>`_
 
-**Non usare**
+.. admonition:: use-not
+
    06 12345678
 
 |

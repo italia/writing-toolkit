@@ -10,10 +10,12 @@ abrogare (abrogazione)
 adempiere (adempimento)
      Preferisci l’uso di termini più semplici. 
 
-     **Usa**
+     .. admonition:: use
+
         *Per metterti in regola con gli obblighi vaccinali dovrai...*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Regolarizzazione iscrizioni per adempiere agli obblighi vaccinali...*
 
      |
@@ -41,10 +43,12 @@ allegato
 ammenda
      Preferisci l’uso di “multa” o “contravvenzione”.
 
-     **Usa**
+     .. admonition:: use
+
         *I cittadini che inviano la dichiarazione in ritardo sulla scadenza dovranno pagare una multa.*
-     
-     **Non usare**
+
+     .. admonition:: use-not
+
         *Una dichiarazione inviata dal cittadino dopo i termini di legge previsti comporterà l’applicazione di un’ammenda.*
 
      |

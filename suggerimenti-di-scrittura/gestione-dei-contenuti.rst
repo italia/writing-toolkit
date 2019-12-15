@@ -65,7 +65,8 @@ Concentrati sulle cose importanti. Fai un `esercizio di content journey <https:/
 
 Quando crei una pagina, come prima cosa definisci a cosa serve e in che modo risponde a un bisogno dei cittadini (o di specifiche categorie di cittadini).
 
-**Usa**
+.. admonition:: use
+
    *Questa pagina serve a spiegare cosa fa il Ministero dell’Interno.*
 
 Non creare più pagine web con lo stesso scopo

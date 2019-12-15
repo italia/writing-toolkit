@@ -34,7 +34,8 @@ Usa il punto e virgola per gli elenchi, il punto per chiudere le frasi.
 
 Dopo il punto fermo usa la maiuscola, dopo il punto e virgola e i due punti la minuscola. Questa regola vale anche per gli elenchi puntati.
 
-**Usa**
+.. admonition:: use
+
    Questa è la frase che introduce il tuo elenco.
    
    1. Se la frase introduttiva si chiude col punto fermo, il primo punto inizia in maiuscolo.

@@ -6,10 +6,12 @@ Bottoni
 
 I bottoni sono tipi particolari di collegamenti: permettono di inviare dati al sistema o di eseguire un’azione. Utilizza inviti all’azione sui bottoni (le label) chiari e specifici. 
 
-**Usa**
+.. admonition:: use
+
   “Cerca”, “Paga adesso”, "Scarica il modulo", "Vai al form", "Iscriviti adesso"
 
-**Non usare**
+.. admonition:: use-not
+
   “Ok”, "Invia"
   
 Il significato di “Cancella” è diverso da quello di “Annulla”.
@@ -46,14 +48,16 @@ Quando chiedi un’azione all’utente (es. l’invio di un form appena compilat
 
 Quando il messaggio di conferma prevede un’ulteriore azione da parte dell’utente, assicurati di chiarire bene il senso dell’azione.
 
-**Usa**
+.. admonition:: use
+
    *Invia i tuoi dati*
 
    *Premendo “Conferma” invierai la tua richiesta e non potrai più modificare i dati*
 
    ``Conferma     Annulla``
 
-**Non usare**
+.. admonition:: use-not
+
    *Confermi?*
 
    ``Invia      Annulla``
@@ -69,10 +73,12 @@ All’interno di form o di procedure guidate, prepara con attenzione i messaggi 
 
 -  quali sono gli errori legati al formato (es. scrivi il numero di telefono senza spazi).
 
-**Usa**
+.. admonition:: use
+
    *Inserisci un numero di telefono valido. Tutti i campi con l’asterisco (\*) sono obbligatori*
 
-**Non usare**
+.. admonition:: use-not
+
    *Errore*
 
 |
@@ -89,11 +95,13 @@ Pagine vuote
 
 In alcune circostanze sul tuo sito possono apparire delle pagine vuote (per esempio il risultato di una ricerca senza esito). Prevedi dei testi per queste pagine in cui indirizzi l’utente verso altri contenuti o azioni sul sito.
 
-**Usa**
+.. admonition:: use
+
    *La ricerca di “[parole chiave ricercate]” non ha prodotto nessun risultato.*
 
    *Torna alla pagina precedente per una nuova ricerca, oppure vai alla pagina contatti per chiedere informazioni.*
 
-**Non usare**
+.. admonition:: use-not
+
    *Not found*
 

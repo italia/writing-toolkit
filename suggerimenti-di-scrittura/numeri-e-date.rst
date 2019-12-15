@@ -49,7 +49,8 @@ Percentuali
 
 Puoi usare il simbolo % all’interno di tabelle, o per contenuti matematici, scientifici, statistici. In generale cerca di scrivere il numero in cifre e “per cento” per esteso.
 
-**Usa**
+.. admonition:: use
+
    *La popolazione è aumentata del 3 per cento.*
 
 |
@@ -61,7 +62,8 @@ Quando il numero è accompagnato da un’unità di misura, lo stile da usare dip
 
 Per i documenti tecnici, il numero è scritto in cifre ed è seguito dal simbolo dell’unità di misura nel `Sistema Internazionale <https://it.wikipedia.org/wiki/Sistema_internazionale_di_unit%C3%A0_di_misura>`__, separato da uno spazio.
 
-**Usa**
+.. admonition:: use
+
    *Una distanza di 3 km*
 
    *Un peso di 15 kg*
@@ -70,7 +72,8 @@ Per i documenti tecnici, il numero è scritto in cifre ed è seguito dal simbolo
 
 In tutti gli altri contesti, puoi esprimere sia il numero che l’unità di misura in lettere (vedi anche `Numeri <#numeri>`__).
 
-**Usa** 
+.. admonition:: use
+
    *Una distanza di tre chilometri*
 
    *Un peso di 15 chili*

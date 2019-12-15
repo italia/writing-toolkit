@@ -14,7 +14,8 @@ Paese
 Parlamento
      L’iniziale è sempre maiuscola.
 
-     **Usa**
+     .. admonition:: use
+
         Parlamento della Repubblica Italiana
 
         Parlamento italiano
