@@ -24,10 +24,12 @@ Inps
 interlocuzione 
      I cittadini non interloquiscono: parlano! Preferisci termini più semplici, quali “dialogo”, “discussione”, “consultazione”.
 
-     **Usa**
+     .. admonition:: use
+
         *... il confronto con i cittadini e con le imprese ha dimostrato che negli anni si sono creati dei blocchi.*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *... l’interlocuzione con i cittadini e con le imprese ha dimostrato che negli anni si sono creati dei blocchi.*
      
      |

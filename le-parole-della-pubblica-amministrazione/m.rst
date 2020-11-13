@@ -9,7 +9,8 @@ meeting
 ministero
      L’iniziale è minuscola, tranne quando accompagnato dal nome completo:
      
-     **Usa**
+     .. admonition:: use
+
         *Dopo l’incontro svolto al ministero, la delegazione...*
 
         *Il Ministero dell'ambiente e della tutela del territorio e del mare...*
@@ -21,7 +22,8 @@ ministero
 ministro
      L’iniziale è minuscola, tranne quando accompagnato dalla dicitura completa della carica.
 
-     **Usa**
+     .. admonition:: use
+
         *Il Ministro per lo sviluppo economico Nome Cognome ha annunciato...*
 
         *Scrivi al ministro*

@@ -16,7 +16,8 @@ Gazzetta Ufficiale, GU
 giudice
      L’iniziale è minuscola, tranne quando accompagnato dalla dicitura completa della carica:
 
-     **Usa**
+     .. admonition:: use
+
         *(...) il Giudice della Corte costituzionale Nome Cognome (...)*
 
         *(...) i giudici della Corte costituzionale sono nominati (...)*

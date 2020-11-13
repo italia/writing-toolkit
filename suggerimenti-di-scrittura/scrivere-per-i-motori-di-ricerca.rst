@@ -70,10 +70,12 @@ Il titolo dovrebbe inoltre:
 
 -  non usare acronimi.
 
-**Usa**
+.. admonition:: use
+
    *Riduci, riusa, ricicla: come gestire i rifiuti a Venezia*
 
-**Non usare**
+.. admonition:: use-not
+
    *Io riduco, riuso, riciclo*
 
 |

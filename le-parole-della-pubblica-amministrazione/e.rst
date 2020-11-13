@@ -14,10 +14,12 @@ email
 ente
      L’iniziale è minuscola. Non abusare del termine: trova dove possibile sinonimi meno generici.
 
-     **Usa**
+     .. admonition:: use
+
         *Le liste dei cittadini ammessi sono disponibili sul sito del Comune.*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Le liste dei cittadini ammessi sono disponibili sul sito dell’ente promotore.*
 
      |
@@ -25,10 +27,12 @@ ente
 erogare
      Evita di usare questo verbo, specie con parole come “servizi”: in genere, vengono erogati l’acqua e i finanziamenti. Negli altri casi, preferisci piuttosto verbi come “offrire” e “fornire”.
 
-     **Usa**
+     .. admonition:: use
+
         *Il servizio è disponibile dal lunedì al venerdì, dalle 10 alle 18.*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Il servizio viene erogato dal lunedì al venerdì, dalle 10 alle 18.*
 
      |

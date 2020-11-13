@@ -30,14 +30,16 @@ Disabilità
 
 Assicurati che i tuoi contenuti siano egualmente fruibili da tutti (anche da chi ha problemi motori, di parola, di vista, di età… o di timidezza!)
 
-**Usa**
+.. admonition:: use
+
    Per contattarci:
    
    tel. `+39 06 12345678 <tel:+390612345678>`_
 
    email. esempio@comuneroma.it
 
-**Non usare**
+.. admonition:: use-not
+
    Centralino:
 
    06 12345678
@@ -53,7 +55,8 @@ Femminile
 
 Declina i termini al femminile quando la persona che ricopre l’incarico è donna, tranne quando i termini sono adatti sia al maschile che al femminile (es. presidente):
 
-**Usa**
+.. admonition:: use
+
    *La ministra*
 
    *La sindaca*
@@ -82,10 +85,12 @@ Identità culturale
 
 Usa i termini più appropriati per distinguere correttamente tra persone richiedenti asilo politico, rifugiati, migranti irregolari (`approfondisci <https://www.cartadiroma.org/cosa-e-la-carta-di-roma/glossario/>`__). Evita ogni forma di generalizzazione legata a origine, etnia, religione e cultura.
 
-**Usa**
+.. admonition:: use
+
    *Nella notte sono sbarcate circa 30 persone.*
 
-**Non usare**
+.. admonition:: use-not
+
    *Nella notte sono sbarcati circa 30 clandestini.*
 
 |
@@ -97,7 +102,8 @@ Usa sempre un linguaggio inclusivo orientato verso le persone, a prescindere dal
 
 Quando crei contenuti (per es. immagini o testi) che riguardano le persone, evita di banalizzare la complessità e non usare stereotipi. Quando fornisci degli esempi a un testo, evita di preferire un genere a un altro.
 
-**Non usare**
+.. admonition:: use-not
+
    *Il presidente di Acme, Mario Rossi...* (il presidente di una società non è sempre solo un uomo)
 
 Vedi anche `Identità culturale <#identità-culturale>`__.
@@ -109,10 +115,12 @@ Pulsanti di navigazione
 
 Ogni pulsante dovrebbe basarsi sempre su combinazioni di forme, colori e testo. In ogni caso l’interfaccia non può mai basarsi solo su immagini o, peggio ancora, colori o audio. Nel testo dei pulsanti, assicurati che sia spiegata bene l’azione che l’utente compie con un clic:
 
-**Usa**
+.. admonition:: use
+
    *Conferma i tuoi dati*
 
-**Non usare**
+.. admonition:: use-not
+
    *Clicca qui*
 
 Per approfondire: `Disegnare un’interfaccia accessibile <https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_it/accessibility-posters-set_it.pdf>`_ (pdf su GitHub, 586 kb)

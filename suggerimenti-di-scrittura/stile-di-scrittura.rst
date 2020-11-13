@@ -39,12 +39,14 @@ Usa strumenti come `Google Trends <https://trends.google.com>`_ per confrontare 
 
 In generale evita l’uso di parole che finiscono in “-zione” o “-mento”: sono parole derivate da verbi che rendono più difficile il testo. Usa piuttosto i verbi in forma attiva.
 
-**Usa**
+.. admonition:: use
+
    *Completa il modulo e paga*
 
    *Per semplificare devi: ...*
 
-**Non usare**
+.. admonition:: use-not
+
    *Prima di pagare procedi al completamento del modulo*
 
    *Le procedure di semplificazione prevedono che: ...*
@@ -69,10 +71,12 @@ Nomi di servizi e progetti
 
 Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve creare un marchio per ogni nuovo servizio, meglio usare diciture descrittive, di immediata comprensione.
 
-**Usa**
+.. admonition:: use
+
    *Servizio di assistenza del Comune*
 
-**Non usare**
+.. admonition:: use-not
+
    *Linea amica*
 
 |
@@ -105,7 +109,8 @@ Quando è necessario citare una legge:
 
 -  aggiungi sempre il link alla norma di riferimento, per esempio usando il permalink alla norma su `Normattiva <http://www.normattiva.it/>`_.
 
-**Usa**
+.. admonition:: use
+
    **Riferimenti normativi**
 
    *Testo Unico in materia di dati sulla privacy (d.lgs. 169 del 30 giugno 2003), art. 4 lett. d).*
@@ -152,26 +157,32 @@ Scegli forme verbali che contribuiscano a rendere il testo più chiaro possibile
 
 -  Utilizza forme verbali attive:
 
-   **Usa**
+   .. admonition:: use
+
       *Registrati sul sito.*
 
-   **Non usare**
+   .. admonition:: use-not
+
       *La registrazione può essere effettuata sul sito.*
 
 -  Scegli forme colloquiali e dirette:
 
-   **Usa**
+   .. admonition:: use
+
       *Scarica il bando per la richiesta dei contributi.*
       
-   **Non usare**
+   .. admonition:: use-not
+
       *Il cittadino interessato può reperire il bando per la richiesta di contributi in questa sezione.*
 
 -  Mantieni un linguaggio semplice, diretto e chiaro, evitando forme impersonali:
 
-   **Usa**
+   .. admonition:: use
+
       *Iscriviti sul sito del Comune.*
 
-   **Non usare**
+   .. admonition:: use-not
+
       *È possibile iscriversi sul sito del Comune.*
 
 

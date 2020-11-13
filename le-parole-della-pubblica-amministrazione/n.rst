@@ -4,10 +4,12 @@ N
 nelle more di
      Evita l’utilizzo di questo termine, che appartiene a un linguaggio burocratico per indicare un intervallo di tempo. A seconda del contesto, usa termini più semplici, facilmente comprensibili a tutti. 
 
-     **Usa**
+     .. admonition:: use
+
         *In attesa del giudizio del tribunale.*
 
-     **Non usare**
+     .. admonition:: use-not
+
         *Nelle more del giudizio del tribunale.*
      
      |
