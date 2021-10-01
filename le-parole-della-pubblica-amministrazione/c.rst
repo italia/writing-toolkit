@@ -80,8 +80,8 @@ conto corrente, c/c
 
      |
 
-Corte 
-     Di regola solo la prima iniziale è maiuscola (es. Corte costituzionale; Corte d’appello; Corte d’assise, Corte di cassazione). Fa eccezione la Corte dei Conti, dove entrambe le iniziali sono maiuscole.
+Corte
+     Di regola solo la prima iniziale è maiuscola (es. Corte costituzionale; Corte d’appello; Corte d’assise, Corte di cassazione).
 
      |
 
