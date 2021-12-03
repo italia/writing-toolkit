@@ -22,16 +22,9 @@ Per migliorare l’inclusività, la facilità di comprensione e la qualità comp
 .. admonition:: use
 
    *Per dare dei riferimenti all'utente usa i breadcrumb (etichette di navigazione).*
-   
+
+|
+
 .. admonition:: use-not
 
    *...puoi downloadare il modulo di iscrizione.*
-   
-   
-.. admonition:: use
-
-   *Servizio di assistenza del Comune*
-
-.. admonition:: use-not
-
-   *Linea amica*
