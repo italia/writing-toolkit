@@ -17,15 +17,21 @@ Per migliorare l’inclusività, la facilità di comprensione e la qualità comp
 - prediligi vocaboli in lingua italiana;
 - traduci anglicismi e forestierismi in lingua italiana; 
 - nel caso sia necessario usare un anglicismo o un forestierismo - per esempio in relazione a un linguaggio settoriale - disambigua il relativo significato in lingua italiana; 
+- evita in ogni caso di italianizzare un prestito linguistico, ovvero di utilizzare termini come "backuppare", “onboardare” o altri. 
 
 .. admonition:: use
 
-   *Per dare dei riferimenti all'utente usa i breadcrumb (etichette di navigazione)*
+   *Per dare dei riferimenti all'utente usa i breadcrumb (etichette di navigazione).*
    
-
-- evita in ogni caso di italianizzare un prestito linguistico, ovvero di utilizzare termini come "backuppare", “onboardare” o altri. 
-
-
 .. admonition:: use-not
 
    *...puoi downloadare il modulo di iscrizione.*
+   
+   
+.. admonition:: use
+
+   *Servizio di assistenza del Comune*
+
+.. admonition:: use-not
+
+   *Linea amica*
