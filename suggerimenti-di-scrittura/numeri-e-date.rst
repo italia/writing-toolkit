@@ -41,6 +41,12 @@ Usali per:
 -  indicare i secoli.
 
 |
+Orari
+----
+
+Le ore si scrivono in lettere quando il contesto Ã¨ discorsivo (es. le quattro e mezzo, le dieci e un quarto). Quando, invece, si vuole indicare un orario preciso, le ore si indicano in cifre. In questo caso, le ore, i minuti e gli eventuali secondi sono separati dai due punti, senza spazi (es. 23:59). Lâ€™uso della virgola è invece indicato come separatore di frazioni decimali (es. 2,5 metri o 2,5 kg) che nell'uso anglosassone è sostituita dal punto.
+
+|
 
 .. _percentuali:
 
