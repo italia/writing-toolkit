@@ -4,7 +4,7 @@ Punteggiatura e grammatica
 Apostrofo
 -------------
 
-Lâ€™apostrofo indica unâ€™elisione e non va mai separato dalle parole che lo precedono e lo seguono. Lâ€™apostrofo non deve essere usato al posto
+L’apostrofo indica un’elisione e non va mai separato dalle parole che lo precedono e lo seguono. L’apostrofo non deve essere usato al posto
 dell’accento nelle lettere accentate (es. è, È ecc.) perché possono produrre un’errata lettura da parte dei lettori di schermo (_screen reader_).
 .. admonition:: use
 
