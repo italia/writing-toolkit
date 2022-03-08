@@ -26,7 +26,7 @@ Nel testo è meglio scriverlo per esteso: “per esempio”. Se lo usi tra paren
 Incisi (parentesi tonde o trattino lungo)
 ---------------------
 
-Per staccare dal resto del testo una frase  Ã¨ preferibile usare le parentesi tonde che delimitano con maggiore forza lâ€™inciso. Allâ€™esterno devono sempre essere precedute e seguite da uno spazio per isolarne il contenuto, eccetto quando la parentesi chiusa Ã¨ seguita da una virgola o da un punto. Dopo che la parentesi è stata aperta e prima che sia chiusa, invece, non va inserito lo spazio. Si utilizzano principalmente per inserire chiarimenti che spezzano la linearità del discorso. 
+Per staccare dal resto del testo una frase è preferibile usare le parentesi tonde che delimitano con maggiore forza l’inciso. All’esterno devono sempre essere precedute e seguite da uno spazio per isolarne il contenuto, eccetto quando la parentesi chiusa è seguita da una virgola o da un punto. Dopo che la parentesi è stata aperta e prima che sia chiusa, invece, non va inserito lo spazio. Si utilizzano principalmente per inserire chiarimenti che spezzano la linearità del discorso. 
 
 A volte viene utilizzata anche la trattino lungo o disgiuntivo (—) che  Ã¨ un segno della punteggiatura diverso dal trattino corto o di unione (–) e, dal punto di vista tipografico,  Ã¨ lunga circa il doppio rispetto al trattino. Il trattino lungo viene usato, per esempio, come indicatore grafico per marcare lâ€™apertura del discorso diretto. Deve sempre essere preceduto e seguito da uno spazio e, nel caso in cui lâ€™inciso termini a fine periodo, va omesso il trattino di chiusura. Si noti anche che il tratto corto (–) viene di solito usato nei nomi composti (ad esempio e-commerce) e, di norma, non  Ã¨ preceduto o seguito da spazi.
 
