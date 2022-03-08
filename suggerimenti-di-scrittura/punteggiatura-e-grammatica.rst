@@ -83,6 +83,6 @@ Dopo il punto fermo usa la maiuscola, dopo il punto e virgola e i due punti la m
 Puntini sospensivi
 ------------------
 
-Il numero di puntini da utilizzare Ã¨ sempre e solo tre (…). Si usano per indicare che un elenco può continuare o per lasciare un discorso in sospeso. Quando si vuole indicare lâ€™omissione di una parte di un testo citato, vanno usati tra parentesi. Quando i punti chiudono il discorso non bisogna aggiungere il punto fermo e la frase successiva inizia con la lettera maiuscola; in un elenco che termina con i puntini di sospensione non si fanno precedere dalla congiunzione â€œeâ€; in un elenco che termina con i puntini di sospensione non si deve aggiungere la parola â€œecceteraâ€ in quanto avendo il medesimo significato e sarebbe una ripetizione. 
+Il numero di puntini da utilizzare è sempre e solo tre (…). Si usano per indicare che un elenco può continuare o per lasciare un discorso in sospeso. Quando si vuole indicare l’omissione di una parte di un testo citato, vanno usati tra parentesi. Quando i punti chiudono il discorso non bisogna aggiungere il punto fermo e la frase successiva inizia con la lettera maiuscola; in un elenco che termina con i puntini di sospensione non si fanno precedere dalla congiunzione “e”; in un elenco che termina con i puntini di sospensione non si deve aggiungere la parola “eccetera” in quanto avendo il medesimo significato e sarebbe una ripetizione. 
 
 
