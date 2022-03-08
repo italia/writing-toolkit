@@ -19,7 +19,7 @@ dellâ€™accento nelle lettere accentate (es. Ã¨, Ãˆ ecc.) perché posson
 Esempio o es.
 -------------
 
-Nel testo Ã¨ meglio scriverlo per esteso: â€œper esempioâ€. Se lo usi tra parentesi, puoi scegliere la forma abbreviata (es. come in questo caso). Preferire lâ€™uso di â€œper esempioâ€allâ€™uso di: â€œad esempioâ€.
+Nel testo è meglio scriverlo per esteso: “per esempio”. Se lo usi tra parentesi, puoi scegliere la forma abbreviata (es. come in questo caso). Preferire l’uso di “per esempio” all’uso di: “ad esempio”.
 
 |
 
