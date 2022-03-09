@@ -5,21 +5,22 @@ Apostrofo e accento
 -------------------
 
 L’apostrofo indica un’elisione e non va mai separato dalle parole che lo precedono e lo seguono. L’apostrofo non deve essere usato al posto
-dell’accento nelle lettere accentate (es. è, È ecc.) perché possono produrre un’errata lettura da parte dei lettori di schermo (_screen reader_).
+dell’accento nelle lettere accentate (es. è, È ecc.) perché possono produrre un’errata lettura da parte dei lettori di schermo (*screen reader*).
+
 .. admonition:: use
 
-         può
+   può
          
 .. admonition:: use-not
 
-         puo' 
+   puo' 
 
 |
 
 Esempio o es.
 -------------
 
-Nel testo è meglio scriverlo per esteso: “per esempio”. Se lo usi tra parentesi, puoi scegliere la forma abbreviata (es. come in questo caso). Preferire l’uso di “per esempio” all’uso di: “ad esempio”.
+Nel testo è meglio scriverlo per esteso: "per esempio". Se lo usi tra parentesi, puoi scegliere la forma abbreviata (es. come in questo caso). Preferire l’uso di "per esempio" all’uso di: "ad esempio".
 
 |
 
@@ -43,7 +44,7 @@ In generale usa iniziali minuscole, tranne quando si tratta di nomi propri o di 
 
 -  facoltà, dipartimenti, istituti e scuole (es. l’Università degli studi di Bologna);
 
--  nomi di organizzazioni e istituzioni (es. lo Stato, la Costituzione, il Consiglio dei Ministri, l'Organizzazione delle Nazioni Unite ecc.)
+-  nomi di organizzazioni e istituzioni (es. lo Stato, la Costituzione, il Consiglio dei Ministri, l'Organizzazione delle Nazioni Unite ecc.);
 
 -  nomi completi di uffici, dipartimenti ed enti (es. Agenzia delle Entrate);
 
@@ -83,6 +84,6 @@ Dopo il punto fermo usa la maiuscola, dopo il punto e virgola e i due punti la m
 Puntini sospensivi
 ------------------
 
-Il numero di puntini da utilizzare è sempre e solo tre (…). Si usano per indicare che un elenco può continuare o per lasciare un discorso in sospeso. Quando si vuole indicare l’omissione di una parte di un testo citato, vanno usati tra parentesi. Quando i punti chiudono il discorso non bisogna aggiungere il punto fermo e la frase successiva inizia con la lettera maiuscola; in un elenco che termina con i puntini di sospensione non si fanno precedere dalla congiunzione “e”; in un elenco che termina con i puntini di sospensione non si deve aggiungere la parola “eccetera” in quanto avendo il medesimo significato e sarebbe una ripetizione. 
+Il numero di puntini da utilizzare è sempre e solo tre (…). Si usano per indicare che un elenco può continuare o per lasciare un discorso in sospeso. Quando si vuole indicare l’omissione di una parte di un testo citato, vanno usati tra parentesi. Quando i punti chiudono il discorso non bisogna aggiungere il punto fermo e la frase successiva inizia con la lettera maiuscola; in un elenco che termina con i puntini di sospensione non si fanno precedere dalla congiunzione "e"; in un elenco che termina con i puntini di sospensione non si deve aggiungere la parola "eccetera" in quanto, avendo il medesimo significato, sarebbe una ripetizione. 
 
 
