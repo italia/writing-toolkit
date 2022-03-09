@@ -1,8 +1,8 @@
 Punteggiatura e grammatica
 ==========================
 
-Apostrofo
--------------
+Apostrofo e accento
+-------------------
 
 L’apostrofo indica un’elisione e non va mai separato dalle parole che lo precedono e lo seguono. L’apostrofo non deve essere usato al posto
 dell’accento nelle lettere accentate (es. è, È ecc.) perché possono produrre un’errata lettura da parte dei lettori di schermo (_screen reader_).
