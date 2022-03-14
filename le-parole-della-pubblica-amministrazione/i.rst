@@ -16,8 +16,8 @@ imposta sul valore aggiunto, IVA
 
      |
 
-Inps
-     Soltanto la prima lettera dell’acronimo è maiuscola.
+Istituto Nazionale della Previdenza Sociale (INPS)
+     L’acronimo è tutto maiuscolo.
 
      |
 
@@ -34,5 +34,5 @@ interlocuzione
      
      |
 
-Istat
-     Soltanto la prima lettera dell’acronimo è maiuscola.
+Istituto nazionale di statistica (ISTAT)
+     L’acronimo è tutto maiuscolo.
