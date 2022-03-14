@@ -1,8 +1,8 @@
 L
 =
 
-legge
-     L’iniziale è minuscola, a meno che non ci sia il richiamo esatto al nome della norma.
+legge, L.
+     Preferire il testo per esteso all'abbreviazione. L’iniziale è minuscola, a meno che non ci sia il richiamo esatto al nome della norma. Aggiungere il permalink alla norma sul sito www.normattiva.it.
 
      .. admonition:: use
 
