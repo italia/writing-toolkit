@@ -6,13 +6,13 @@ Camera di commercio
 
      |
 
-Carta nazionale dei servizi, Cns
-     Solo la prima iniziale è maiuscola.
+Carta Nazionale dei Servizi (CNS)
+	Nell'acronimo tutte le lettere sono maiuscole. La Tessera Sanitaria può essere abilitata e usata come Carta Nazionale dei Servizi e viene indicata come TS-CNS.
 
      |
 
-Cassa depositi e prestiti, Cdp
-     Solo la prima lettera è maiuscola, anche nell’acronimo.
+Cassa depositi e prestiti (CDP)
+     Solo la prima lettera è maiuscola. Nell'acronimo tutte le lettere sono maiuscole.
 
      |
 
@@ -21,8 +21,8 @@ citizen satisfaction
 
      |
 
-Codice dell’amministrazione digitale, Cad
-     Scrivilo per esteso. Solo la prima iniziale è maiuscola.
+Codice dell'Amministrazione Digitale (CAD)
+     Scrivilo per esteso. Nell'acronimo tutte le lettere sono maiuscole.
 
      |
 
@@ -32,7 +32,7 @@ Commissione europea
      |
 
 Comune
-     L’iniziale è maiuscola quando si fa riferimento all’ente.
+     L’iniziale è maiuscola quando si fa riferimento all’ente, minuscola se il nome dell'ente locale è seguito dal nome proprio.
 
      |
 
@@ -64,13 +64,13 @@ conseguimento
 
      |
      
-Consiglio dei ministri, Cdm
-     Solo la prima iniziale è maiuscola, anche nell’acronimo.
+Consiglio dei ministri
+    Usa il testo per esteso. L'uso abbreviato Cdm è diffuso e ammissibile in campo giornalistico.
 
      |
 
-Consiglio nazionale delle ricerche, Cnr
-     Soltanto l’iniziale è maiuscola.
+Consiglio Nazionale delle Ricerche (CNR)
+     Nell'acronimo tutte le lettere sono maiuscole.
 
      |
 
@@ -80,7 +80,7 @@ Consiglio nazionale delle ricerche, Cnr
      |
 
 conto corrente, c/c
-     Preferisci l’uso esteso del termine. Usa l’abbreviazione solo dopo aver usato il termine completo.
+     Preferisci l’uso esteso del termine. Quando si vuole indicare anche il numero del conto bancario o postale si usa la scrittura abbreviate c/c.
 
      |
 
