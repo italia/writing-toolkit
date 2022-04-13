@@ -87,6 +87,11 @@ Consiglio nazionale delle ricerche, Cnr
      L’italiano “centro assistenza” va benissimo. Vedi anche :term:`help desk`.
 
      |
+     
+Consip
+     Soltanto l’iniziale è maiuscola.
+
+     |
 
 conto corrente, c/c
      Preferisci l’uso esteso del termine. Usa l’abbreviazione solo dopo aver usato il termine completo.
