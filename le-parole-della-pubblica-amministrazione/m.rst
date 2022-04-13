@@ -6,7 +6,7 @@ meeting
 
      |
 
-Mercato elettronico della PA
+Mercato elettronico della PA, MEPA
      La piattaforma di Consip va scritta con l'iniziale maiuscola. L'acronimo "MEPA" è scritto tutto maiuscolo.
 
      |
