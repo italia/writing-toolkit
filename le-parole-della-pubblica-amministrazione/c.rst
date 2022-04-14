@@ -40,7 +40,7 @@ Comune
 
      .. admonition:: use-not
 
-         *Trovi tutte le informazioni nel sito del comune di Conversano nella sezione "Cittadino".*
+         *Trovi tutte le informazioni nel sito del comune di Conversano nella sezione "Turismo".*
 
 
      |
