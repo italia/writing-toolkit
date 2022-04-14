@@ -32,7 +32,16 @@ Commissione europea
      |
 
 Comune
-     L’iniziale è maiuscola quando si fa riferimento all’ente.
+     L’iniziale è maiuscola quando si fa riferimento a uno specifico ente. Per esempio, se ti riferisci al "Comune di Conversano" utilizza l'iniziale maiuscola, anche quando non è presente il complemento di denominazione. Se, invece, stai facendo riferimento alla categoria, meglio utilizzare la parola "comuni" con l'iniziale minuscola.
+     
+     .. admonition:: use
+
+         *Trovi tutte le informazioni nel sito del Comune di Conversano nella sezione "Turismo".*
+
+     .. admonition:: use-not
+
+         *Trovi tutte le informazioni nel sito del comune di Conversano nella sezione "Turismo".*
+
 
      |
 
@@ -76,6 +85,11 @@ Consiglio nazionale delle ricerche, Cnr
 
 `contact center <https://www.inps.it/NuovoportaleINPS/default.aspx?sPathID=0%3b46670%3b&lastMenu=46670&iMenu=1>`__
      L’italiano “centro assistenza” va benissimo. Vedi anche :term:`help desk`.
+
+     |
+     
+Consip
+     Soltanto l’iniziale è maiuscola.
 
      |
 
