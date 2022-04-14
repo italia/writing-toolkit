@@ -34,7 +34,7 @@ Commissione europea
 Comune
      L’iniziale è maiuscola quando si fa riferimento a uno specifico ente. Per esempio, se ti riferisci al "Comune di Conversano" utilizza l'iniziale maiuscola, anche quando non è presente il complemento di denominazione. Se, invece, stai facendo riferimento alla categoria, meglio utilizzare la parola "comuni" con l'iniziale minuscola.
      
-       .. admonition:: use
+     .. admonition:: use
 
            *Trovi tutte le informazioni nel sito del Comune di Conversano nella sezione "Turismo".*
 
