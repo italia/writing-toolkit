@@ -36,7 +36,7 @@ Comune
      
        .. admonition:: use
 
-                *Trovi tutte le informazioni nel sito del Comune di Conversano nella sezione "Cittadino".*
+           *Trovi tutte le informazioni nel sito del Comune di Conversano nella sezione "Turismo".*
 
      .. admonition:: use-not
 
