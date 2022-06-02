@@ -47,12 +47,15 @@ Orari
 Scrivili in lettere quando il contesto è discorsivo
 
 .. admonition:: use
+
    *Le quattro e mezzo*
+   
    *Le dieci e un quarto
     
 Quando, invece, vuoi indicare un orario preciso, usa le cifre. In questo caso, le ore, i minuti e gli eventuali secondi sono separati dai due punti, senza spazi
 
 .. admonition:: use
+
    *23:59*
 
 |
