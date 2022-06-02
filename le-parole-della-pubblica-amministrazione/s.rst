@@ -2,13 +2,14 @@ S
 =
 
 sindaco
-     L’iniziale è sempre minuscola, tranne quando accompagnato dal nome completo della persona in carica.
+     L’iniziale è sempre minuscola, quando si tratta della carica in generale oppure se accompagna il nome proprio. L'iniziale "Sindaco" è in maiuscolo solo quando sostituisce il nome proprio. 
 
-     .. admonition:: use
+.. admonition:: use
 
-        *Il sindaco era presente all’inaugurazione.*
+        *Il Sindaco era presente all'inaugurazione.*
 
-        *Il Sindaco Giuseppe Rossi era presente all’inaugurazione.*
+        *Il sindaco Giuseppe Rossi era presente all'inaugurazione.*
+
 
      Si declina al femminile (*la sindaca*).
 
