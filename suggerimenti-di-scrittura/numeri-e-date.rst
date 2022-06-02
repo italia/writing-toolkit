@@ -29,6 +29,14 @@ I numeri che precedono “mille”, “mila”, “milione” e “miliardo” s
 
 -  la produzione ha superato i 3 miliardi e 400 milioni di pezzi.
 
+Usa la virgola come separatore della parte frazionaria di un numero:
+
+.. admonition:: use
+
+   *2,5 metri*
+   
+   *3,5 chili*
+   
 |
 
 Numeri romani
@@ -44,7 +52,7 @@ Usali per:
 Orari
 ----
 
-Scrivili in lettere quando il contesto è discorsivo
+Scrivili in lettere quando il contesto è discorsivo:
 
 .. admonition:: use
 
@@ -52,7 +60,7 @@ Scrivili in lettere quando il contesto è discorsivo
    
    *Le dieci e un quarto
     
-Quando, invece, vuoi indicare un orario preciso, usa le cifre. In questo caso, le ore, i minuti e gli eventuali secondi sono separati dai due punti, senza spazi
+Quando, invece, vuoi indicare un orario preciso, usa le cifre. In questo caso, le ore, i minuti e gli eventuali secondi sono separati dai due punti, senza spazi:
 
 .. admonition:: use
 
