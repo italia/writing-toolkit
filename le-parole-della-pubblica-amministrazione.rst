@@ -43,5 +43,4 @@ In alcuni casi esistono più alternative corrette relative alla grafia di un sin
    le-parole-della-pubblica-amministrazione/u.rst
    le-parole-della-pubblica-amministrazione/v.rst
    le-parole-della-pubblica-amministrazione/w.rst
-
-
+   le-parole-della-pubblica-amministrazione/y.rst
