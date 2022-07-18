@@ -21,8 +21,8 @@ citizen satisfaction
 
      |
 
-Codice dell’amministrazione digitale, Cad
-     Scrivilo per esteso. Solo la prima iniziale è maiuscola.
+Codice dell’Amministrazione Digitale, CAD
+     Scrivilo per esteso, almeno la prima volta L'acronimo è tutto maiuscolo.
 
      |
 
