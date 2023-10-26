@@ -9,9 +9,9 @@ La piattaforma accetta documenti in formato RST o MD.
 Per informazioni sulla struttura di questo repository visita il [repository
 dedicato](https://github.com/italia/docs-italia-starter-kit).
 
-## Preview
+## Anteprima
 
-Per lavorare utilizzando una preview del documento è sufficiente lanciare Docker
+Per lavorare utilizzando un'anteprima del documento è sufficiente lanciare Docker.
 
 ```shell
 docker-compose up
