@@ -1,13 +1,13 @@
 U
 =
 
-Ufficio relazioni con il pubblico, Urp
-     Preferisci la dicitura completa, e ricorri all’acronimo solo dopo averla già usata. Solo la prima lettera è maiuscola, anche nell’acronimo.
+Ufficio relazioni con il pubblico (URP)
+     Preferisci la dicitura completa, e ricorri all’acronimo solo dopo aver già usato la denominazione completa.
 
      |
 
-Unione Europea
-     Entrambe le iniziali sono maiuscole. Si abbrevia UE.
+Unione Europea(UE)
+     Nell'acronimo entrambe le iniziali sono maiuscole (UE).
 
      |
 
