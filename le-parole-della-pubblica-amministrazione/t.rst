@@ -1,12 +1,12 @@
 T
 =
 
-tassa sui rifiuti, Tari
-     Preferisci la dicitura completa. Nell’acronimo, solo la prima lettera è maiuscola.
+tassa sui rifiuti (TARI)
+     Preferisci la dicitura completa. Nell'acronimo le lettere sono in maiuscolo.
 
      |
 
-Testo Unico
+Testo Unico (TU)
      Scritto per esteso, le iniziali sono maiuscole.
 
      |
@@ -17,6 +17,6 @@ tool
      |
 
 touch screen
-     Sono due parole separate. Puoi usare anche la forma italiana “schermo tattile”.
+     Sono due parole separate. Puoi usare anche la forma italiana “schermo tattile” o "schermo sensibile al tatto".
 
    
