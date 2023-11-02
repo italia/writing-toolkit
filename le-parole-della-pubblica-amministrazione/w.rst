@@ -2,5 +2,5 @@ W
 =
 
 Wi-Fi
-     Si scrive tutto minuscolo e con il trattino. Con riferimento al genere, sebbene usare "la (rete) wi-fi" al femminile non può essere considerato un errore, tuttavia il genere prevalente è il maschile "il wi-fi".
+     Scrivilo con le iniziali maiuscole e con il trattino. Con riferimento al genere, utilizza il maschile (es. il Wi-Fi), tuttavia è accettabile anche "la (rete) Wi-Fi".
 
