@@ -40,6 +40,8 @@ Queste regole sono aperte a modifiche e nuovi spunti:
    suggerimenti-di-scrittura/come-strutturare-il-contenuto.rst
    suggerimenti-di-scrittura/regole-di-formattazione.rst
    suggerimenti-di-scrittura/punteggiatura-e-grammatica.rst
+   suggerimenti-di-scrittura/anglicismi-forestierismi.rst
+   suggerimenti-di-scrittura/linguaggio-di-genere.rst
    suggerimenti-di-scrittura/usabilita.rst
    suggerimenti-di-scrittura/immagini-video.rst
    suggerimenti-di-scrittura/social-e-newsletter.rst
