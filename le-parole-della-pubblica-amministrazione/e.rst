@@ -1,13 +1,13 @@
 E
 =
 
-eccetera, ecc. o etc.
-     Tutte e tre le forme sono corrette. Se si tratta di elenchi, scegli la forma abbreviata “ecc.”. Qualunque versione tu abbia scelto, ricorda di usarla uniformemente in tutto il testo.
+eccetera, ecc., et cetera, etc.
+     Tutte le forme sono corrette. La forma eccetera (e l’abbreviazione ecc.) è preferibile e risulta più comune rispetto alla formula latina *et cetera* (e l’abbreviazione etc.)che è molto utilizzata da americani e anglosassoni. Se si tratta di elenchi, scegli la forma abbreviata "ecc." che può essere preceduta (o meno) da virgola. Qualunque versione tu abbia scelto, ricorda di usarla uniformemente in tutto il testo.
 
      |
 
 email
-     Si scrive senza trattini o spazi, in minuscolo. Vedi anche `ulteriori suggerimenti <../suggerimenti-di-scrittura/come-strutturare-il-contenuto.html#email>`__.
+     Si scrive senza trattini o spazi, in minuscolo. Rendere attivo l'indirizzo email usando l’attributo “mailto:". Vedi anche `ulteriori suggerimenti <../suggerimenti-di-scrittura/come-strutturare-il-contenuto.html#email>`__.
 
      |
 
