@@ -70,6 +70,20 @@ Declina i termini al femminile quando la persona che ricopre l’incarico è don
    *La presidente*
    
    *La dirigente*
+   
+   |
+
+Formattazione del testo
+-----------------------
+Il corsivo e il grassetto aggiungono significato al contenuto ma occorre tenere presente che possono essere interpretati in modo non corretto dai lettori di schermo e verificare di aver utilizzato HTML semantico (<em>, <strong>).
+
+Vedi anche `Corsivo <regole-di-formattazione.html#corsivo>`_ e `Grassetto <regole-di-formattazione.html#grassetto>`_.
+
+Anche nella creazione di elenchi occorre garantire che gli screen reader siano in grado di interpretare correttamente le liste utilizzando i tag HTML idonei. Va, invece, sempre evitato di creare un allineamento forzato utilizzando vari espedienti degli editor di testo (ad esempio usando le spaziature multiple, i tab, gli “a capo” o l’inserimento di numeri o simboli) che visivamente sembrerebbero realizzare un risultato analogo.
+
+Vedi anche `Come strutturare il contenuto <come-strutturare-il-contenuto.html#Elenchi puntati e numerati>`_.
+
+Evitare di inserire paragrafi vuoti (creati con il tasto "invio") per distanziare le righe del testo: utilizzare invece le impostazioni della spaziatura dei paragrafi. 
 
 |
 
@@ -92,6 +106,16 @@ Usa i termini più appropriati per distinguere correttamente tra persone richied
 .. admonition:: use-not
 
    *Nella notte sono sbarcati circa 30 clandestini.*
+
+|
+
+Infografiche
+------------
+
+Sono molto utilizzate per la loro caratteristica di trasmettere informazioni in modo visivo e sintentico, ma possono risultare non accessibili. Occorre renderle:
+- leggibili dagli screen reader con l'interimento di testo che racconti agli utenti ciò che non possono ricavare dagli elementi visivi;
+- facili da leggere a chi ha difficoltà visive (come ad es. il daltonismo e l'ipovisione) scegliendo font, contrasto e colori idonei;
+- facili da capire anche alle persone con disabilità cognitive. 
 
 |
 
