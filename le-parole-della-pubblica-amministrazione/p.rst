@@ -59,7 +59,7 @@ Protezione civile / Dipartimento della protezione civile
      |
 
 Pubblica Amministrazione, PA
-     Scrivilo per esteso, almeno la prima volta: dopo puoi usare l’acronimo. Le iniziali sono maiuscole.
+     Scrivilo per esteso, almeno la prima volta: dopo puoi usare l’acronimo. Le iniziali sono maiuscole al singolare; al plurale, è scritto tutto in minuscolo. L'acronimo è sempre in maiuscolo.
 
      |
 
