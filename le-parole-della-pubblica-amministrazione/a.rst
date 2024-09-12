@@ -7,6 +7,10 @@ abrogare (abrogazione)
 
      |
 
+a cura di
+     Non deve essere abbreviato. 
+|
+
 adempiere (adempimento)
      Preferisci l’uso di termini più semplici. 
 
@@ -53,15 +57,10 @@ ammenda
 
      |
 
-Anagrafe nazionale della popolazione residente, Anpr
-     Solo la prima lettera è maiuscola, anche nell’acronimo. 
+Anagrafe nazionale della popolazione residente (ANPR)
+     Solo la prima lettera è maiuscola, nell'acronimo tutte le lettere sono maiuscole. 
 
      Quando non fai riferimento specifico al progetto Anpr, parla semplicemente di “anagrafe nazionale”.
-
-     |
-
-Anas
-     Azienda (ora Ente) nazionale autonoma per le strade. Solo la prima lettera è maiuscola. 
 
      |
 
@@ -70,6 +69,6 @@ app / applicazione
 
      |
 
-aziende sanitarie locali
-     Tutte le iniziali sono minuscole. Usa l’acronimo Asl (con l’iniziale maiuscola) solo dopo averlo scritto per esteso.
+Azienda Sanitaria Locale (ASL)
+     Tutte le iniziali sono maiuscole. Usa l'acronimo solo dopo aver scritto la denominazione per esteso. A volte è ancora possibile trovare l'acronimo Unità Sanitaria Locale (USL) in uso prima della riforma del Servizio Sanitario Nazionale del 1992.
 
