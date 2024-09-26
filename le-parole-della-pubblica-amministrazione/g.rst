@@ -2,14 +2,14 @@ G
 =
 
 Gazzetta Ufficiale, GU
-     Usa l’acronimo GU il meno possibile, e comunque solo dopo aver utilizzato la dicitura per esteso “Gazzetta Ufficiale (GU)”
+     Preferisci l'uso del termine per esteso. Usa l’acronimo GU il meno possibile, e comunque solo dopo aver utilizzato la dicitura per esteso "Gazzetta Ufficiale (GU)" la prima volta che compare nel contenuto.
 
      Le iniziali sono entrambe maiuscole, anche nell’acronimo.
 
      |
 
 `GitHub <http://github.com>`_
-     Il nome corretto del servizio ha la “H” maiuscola.
+     Il nome corretto del servizio ha la “H” maiuscola, senza inserimento di spazi.
 
      |
 
