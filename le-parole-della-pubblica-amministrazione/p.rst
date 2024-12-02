@@ -24,27 +24,37 @@ Parlamento
 
      |
 
-Pin, codice Pin
-     La prima volta che appare nel testo, aggiungi la parola “codice” prima di “Pin”. Solo la prima lettera è maiuscola.
+Personal Identification Number (PIN) e Personal Unblocking Number(PUK)
+     La prima volta che appare nel testo, aggiungi la parola "codice" prima di "PIN" o "PUK". 
 
      |
 
-posta elettronica certificata, Pec
-     Solo la prima lettera dell’acronimo è maiuscola. La dicitura per esteso non richiede maiuscole.
+posta elettronica certificata(PEC)
+     Preferire l'uso della forma intera, quando invece si vuole usare l'acronimo questo deve essere scritto interamente in lettere maiuscole, senza spaziature e senza punti. La dicitura per esteso non richiede maiuscole.
 
      |
 
 Presidente del Consiglio dei ministri
-     Le iniziali di “Presidente” e “Consiglio” sono maiuscole.
+     L'iniziale "presidente" è sempre minuscola quando si tratta della carica in generale oppure se accompagna il nome proprio. L'iniziale "Presidente" è in maiuscolo solo quando sostituisce il nome proprio. L'iniziale di "ministri è sempre minuscola.
+L'iniziale di "Consiglio" è sempre maiuscola.
 
      Al femminile resta invariato (*la Presidente*).
 
      |
 
 Presidente della Repubblica
-     Le iniziali di “Presidente” e “Repubblica” sono maiuscole.
+  L'iniziale "presidente" è sempre minuscola quando si tratta della carica in generale oppure se accompagna il nome proprio. L'iniziale "Presidente" è in maiuscolo solo quando sostituisce il nome proprio. 
+L'iniziale "Repubblica" è sempre maiuscola. 
 
      Al femminile resta invariato (*la Presidente*).
+
+.. admonition:: use
+        *L'elezione del presidente della Repubblica.*
+
+        *Il presidente della Repubblica Mattarella.*
+
+        *il Presidente della Repubblica ha dichiarato...*
+
    
      |
 
@@ -53,17 +63,17 @@ Procura della Repubblica
 
      |
 
-Protezione civile / Dipartimento della protezione civile
-     Solo la prima iniziale è maiuscola, anche quando si scrive “Dipartimento della protezione civile”.
+Protezione civile / Dipartimento della Protezione civile
+     La prima iniziale è maiuscola, anche quando si scrive “Dipartimento della Protezione civile”.
 
      |
 
-Pubblica Amministrazione, PA
+Pubblica Amministrazione (PA)
      Scrivilo per esteso, almeno la prima volta: dopo puoi usare l’acronimo. Le iniziali sono maiuscole.
 
      |
 
-pubblico ministero, PM
+pubblico ministero (PM)
      Nella versione estesa, entrambe le iniziali sono minuscole. L’acronimo è maiuscolo.
      
      Al femminile resta invariato (*la pubblico ministero*).
