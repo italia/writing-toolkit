@@ -28,7 +28,7 @@ Per la scelta e le dimensioni del carattere, consulta `il kit per la User interf
 Disabilità
 ----------
 
-Assicurati che i tuoi contenuti siano egualmente fruibili da tutti (anche da chi ha problemi motori, di parola, di vista, di età… o di timidezza!)
+Assicurati che i tuoi contenuti siano egualmente fruibili da tutte le persone, comprese quelle con disabilità. Progetta la comunicazione tenendo conto delle diverse esigenze fisiche, comunicative e sensoriali, indipendentemente dall’età o dalle preferenze espressive
 
 .. admonition:: use
 
