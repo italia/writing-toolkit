@@ -25,8 +25,8 @@ Agenda digitale (italiana)
 
      |
 
-Agenzia per l’Italia digitale, AGID
-     Nell'acronimo tutte le lettere sono maiuscole.
+Agenzia per l’Italia Digitale, AgID
+     L'acronimo si scrive AgID.
 
      |
 
@@ -53,10 +53,10 @@ ammenda
 
      |
 
-Anagrafe nazionale della popolazione residente, Anpr
+Anagrafe Nazionale della Popolazione Residente, ANPR
      Solo la prima lettera è maiuscola, anche nell’acronimo. 
 
-     Quando non fai riferimento specifico al progetto Anpr, parla semplicemente di “anagrafe nazionale”.
+     Quando non fai riferimento specifico al progetto ANPR, parla semplicemente di “anagrafe nazionale”.
 
      |
 
