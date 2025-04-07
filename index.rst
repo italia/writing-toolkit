@@ -14,10 +14,29 @@ Questa guida non ha pretese di esaustività, ma puoi aiutarci ad arricchirla. Pu
 
 |
 
+
 .. toctree::
    :maxdepth: 1
-   :caption: Cerca la parola che ti interessa     
-   
-   le-parole-della-pubblica-amministrazione.rst
-   suggerimenti-di-scrittura.rst
-   tono-di-voce.rst
+   :caption: **Che parola stai cercando?**
+
+   le-parole-della-pubblica-amministrazione/a.rst
+   le-parole-della-pubblica-amministrazione/b.rst
+   le-parole-della-pubblica-amministrazione/c.rst
+   le-parole-della-pubblica-amministrazione/d.rst
+   le-parole-della-pubblica-amministrazione/e.rst
+   le-parole-della-pubblica-amministrazione/f.rst
+   le-parole-della-pubblica-amministrazione/g.rst
+   le-parole-della-pubblica-amministrazione/h.rst
+   le-parole-della-pubblica-amministrazione/i.rst
+   le-parole-della-pubblica-amministrazione/l.rst
+   le-parole-della-pubblica-amministrazione/m.rst
+   le-parole-della-pubblica-amministrazione/n.rst
+   le-parole-della-pubblica-amministrazione/o.rst
+   le-parole-della-pubblica-amministrazione/p.rst
+   le-parole-della-pubblica-amministrazione/r.rst
+   le-parole-della-pubblica-amministrazione/s.rst
+   le-parole-della-pubblica-amministrazione/t.rst
+   le-parole-della-pubblica-amministrazione/u.rst
+   le-parole-della-pubblica-amministrazione/v.rst
+   le-parole-della-pubblica-amministrazione/w.rst
+   le-parole-della-pubblica-amministrazione/y.rst
