@@ -69,7 +69,7 @@ conseguimento
 
         *Per il conseguimento degli obiettivi...*
      
-     Per approfondire: `regole per un linguaggio breve e semplice <http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice>`_
+     Per approfondire: `regole per un linguaggio breve e semplice <https://designers.italia.it/design-system/fondamenti/linguaggio>`_
 
      |
      
