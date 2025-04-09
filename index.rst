@@ -17,7 +17,7 @@ Questa guida non ha pretese di esaustività, ma puoi aiutarci ad arricchirla. Pu
 
 .. toctree::
    :maxdepth: 1
-   :caption: **Che parola stai cercando?**
+   :caption: Esplora in ordire alfabetico o usa la barra di ricerca
 
    le-parole-della-pubblica-amministrazione/a.rst
    le-parole-della-pubblica-amministrazione/b.rst
