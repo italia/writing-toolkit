@@ -7,7 +7,7 @@ eccetera, ecc. o etc.
      |
 
 email
-     Si scrive senza trattini o spazi, in minuscolo. Vedi anche `ulteriori suggerimenti <../suggerimenti-di-scrittura/come-strutturare-il-contenuto.html#email>`__.
+     Si scrive senza trattini o spazi, in minuscolo.
 
      |
 

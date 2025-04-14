@@ -69,7 +69,7 @@ conseguimento
 
         *Per il conseguimento degli obiettivi...*
      
-     Per approfondire: `regole per un linguaggio breve e semplice <http://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html#linguaggio-breve-e-semplice>`_
+     Per approfondire: `regole per un linguaggio breve e semplice <https://designers.italia.it/design-system/fondamenti/linguaggio>`_
 
      |
      
@@ -83,7 +83,7 @@ Consiglio nazionale delle ricerche, Cnr
 
      |
 
-`contact center <https://www.inps.it/NuovoportaleINPS/default.aspx?sPathID=0%3b46670%3b&lastMenu=46670&iMenu=1>`__
+contact center
      L’italiano “centro assistenza” va benissimo. Vedi anche :term:`help desk`.
 
      |
