@@ -12,26 +12,27 @@ Mercato elettronico della PA, MEPA
      |
 
 ministero
-     L’iniziale è minuscola, tranne quando accompagnato dal nome completo:
+     L'iniziale è di norma maiuscola, minuscola se usato in modo generico. Usa il maiuscolo anche per l'iniziale della prima parola che individua l'ambito di competenza, questo consente di articolare un elenco, formato da più definizioni, distinguendo dove finisce una e comincia l'altra, agevolando la lettura dei testi:
      
-     .. admonition:: use
+.. admonition:: use
 
-        *Dopo l’incontro svolto al ministero, la delegazione...*
+        *I ministeri, nell'ordinamento italiano, rappresentano...*
 
-        *Il Ministero dell'ambiente e della tutela del territorio e del mare...*
+     *I Ministeri dell'Ambiente e della tutela del territorio e del mare, del Lavoro e delle politiche sociali e delle Infrastrutture e della mobilità...*
 
-        *L’incontro si è svolto presso il ministero dell’ambiente nella giornata di ieri.*
+     *L'incontro si è svolto presso il Ministero della Difesa nella giornata di ieri.*
 
+   
      |
 
 ministro
-     L’iniziale è minuscola, tranne quando accompagnato dalla dicitura completa della carica.
+     L’iniziale è minuscola, quando si tratta della carica in generale oppure se accompagna il nome proprio, maiuscolo solo quando sostituisce il nome proprio.
 
      .. admonition:: use
 
-        *Il Ministro per lo sviluppo economico Nome Cognome ha annunciato...*
+        *Il ministro per lo Sviluppo economico Nome Cognome ha annunciato...*
 
-        *Scrivi al ministro*
+        *Scrivi al Ministro*
 
      Si declina al femminile (*la ministra*).
 
@@ -40,4 +41,17 @@ ministro
 mission 
      Si tratta di un termine tecnico di marketing. Preferisci termini alternativi (es. “valori”, “scopi”, “obiettivi”) a seconda dei contesti.
 
-   
+   |
+
+more (nelle more di)
+     Evita l'uso dell'espressione *nelle more di* che viene usato nel linguaggio burocratico per indicare un intervallo di tempo. A seconda del contesto, usa termini più semplici, facilmente comprensibili a tutti. 
+
+.. admonition:: use
+
+        *In attesa del giudizio del tribunale.*
+
+     .. admonition:: use-not
+
+        *Nelle more del giudizio del tribunale.*
+
+
